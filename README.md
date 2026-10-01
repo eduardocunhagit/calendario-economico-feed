@@ -4,15 +4,14 @@ Feed de eventos econômicos para um widget Scriptable no iPhone. Este repositór
 contém somente o contrato público, o JSON econômico e o código genérico do widget.
 Não contém agenda pessoal, contatos, notícias de assinaturas ou credenciais.
 
-**Situação inicial:** `calendar.json` está em `status: "pending"`, com lista vazia
-e `updated_at: null`. Isso significa **primeira publicação pendente**, não ausência
-de eventos econômicos. Nenhum evento foi inventado. O produtor cloud publicará os
-eventos reais verificados e mudará o estado para `ready`.
+O produtor cloud publica os eventos reais verificados em `events.json`. Antes da
+primeira publicação, o widget mostra que a agenda ainda está pendente. Nenhum
+evento fictício ou lista vazia simulando coleta bem-sucedida é fornecido aqui.
 
 Feed estável:
 
 ```text
-https://raw.githubusercontent.com/eduardocunhagit/calendario-economico-feed/main/calendar.json
+https://raw.githubusercontent.com/eduardocunhagit/calendario-economico-feed/main/events.json
 ```
 
 ## iPhone
@@ -34,16 +33,17 @@ widget; não é uma promessa de atualização exata. Referências oficiais:
 [FileManager](https://docs.scriptable.app/filemanager/).
 
 O código foi verificado localmente; a execução e o layout em um iPhone real ainda
-precisam ser conferidos. O feed inicial pendente é intencional.
+precisam ser conferidos. A publicação dos eventos cabe ao produtor cloud.
 
 ## Contrato do produtor
 
-`schema.json` define o JSON público. Cada evento tem somente `id`, `title`,
-`country`, `datetime`, `timezone`, `importance`, `source_url` e `updated_at`.
-Datas usam ISO 8601 com offset explícito; fuso `America/Sao_Paulo`; importância
+`schema.json` define o JSON público. O envelope contém `schema_version`,
+`timezone`, `updated_at`, `coverage_start`, `coverage_end` e `events`. Cada evento
+tem somente `id`, `title`, `country`, `currency`, `starts_at`, `importance` e
+`source_url`. Datas usam ISO 8601 com offset explícito; fuso `America/Sao_Paulo`; importância
 `low`, `medium` ou `high`. IDs devem ser estáveis e únicos. Não publicar horário
 estimado como confirmado: itens sem horário verificado aguardam o produtor.
 
 O produtor deve revisar a projeção econômica, validar o esquema e substituir
-`calendar.json` com um commit normal em `main`. Falha de coleta não deve publicar
-`ready` com lista vazia. O repositório não instala agendamentos ou GitHub Actions.
+`events.json` com um commit normal em `main`. Falha de coleta não deve publicar
+lista vazia como sucesso. O repositório não instala agendamentos ou GitHub Actions.
