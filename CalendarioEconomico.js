@@ -89,7 +89,7 @@ async function main() {
     textLine("Hoje está fora do período publicado.");
   } else {
     const events = todayEvents(feed, now);
-    const stale = Date.now() - Date.parse(feed.updated_at) > 36 * 3600000;
+    const stale = Date.now() - Date.parse(feed.updated_at) > 8 * 86400000;
     const maxRows = config.widgetFamily === "large" ? 8 : config.widgetFamily === "small" ? 2 : 3;
     if (!events.length) textLine(stale ? "Sem dados recentes para hoje." : "Nenhum evento na agenda publicada de hoje.");
     for (const event of events.slice(0, maxRows)) {
