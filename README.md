@@ -37,12 +37,29 @@ precisam ser conferidos. A publicação dos eventos cabe ao produtor cloud.
 
 ## Contrato do produtor
 
-`schema.json` define o JSON público. O envelope contém `schema_version`,
-`timezone`, `updated_at`, `coverage_start`, `coverage_end` e `events`. Cada evento
-tem somente `id`, `title`, `country`, `currency`, `starts_at`, `importance` e
-`source_url`. Datas usam ISO 8601 com offset explícito; fuso `America/Sao_Paulo`; importância
-`low`, `medium` ou `high`. IDs devem ser estáveis e únicos. Não publicar horário
-estimado como confirmado: itens sem horário verificado aguardam o produtor.
+O contrato canônico atual é [PUBLIC-FEED-SCHEMA.json](PUBLIC-FEED-SCHEMA.json),
+com `schema_version: 2`. [schema.json](schema.json) é o contrato histórico v1,
+mantido para referência; não deve validar o feed atual.
+
+O envelope v2 contém `timezone`, `updated_at`, `coverage_start`, `coverage_end`,
+`economic_coverage`, `polls` e `events`. Eventos econômicos têm `kind: "economic"`,
+horário ISO 8601 com offset, data em Brasília e `time_status: "exact"`. Pesquisas
+presidenciais nacionais têm `kind: "poll"`, `starts_at: null`,
+`time_status: "unknown"`, instituto, registro e data permitida para divulgação.
+Essa data não confirma que a pesquisa foi ou será publicada naquele dia; não
+inventar um horário para ela. IDs permanecem estáveis e únicos.
+
+O widget seleciona Brasil em todos os níveis de importância, EUA em importância
+alta e pesquisas presidenciais nacionais. A seleção econômica do feed é mais
+ampla e está descrita em [EXPORTER-README.md](EXPORTER-README.md), junto dos
+contratos de cobertura, validade das fontes e estado pendente das pesquisas.
+
+O exportador não está neste repositório público. O código e seu contrato de
+entrada ficam no repositório privado `rotinas`, em
+`modules/calendar-widget/export_feed.py` e `modules/calendar-widget/INPUT-CONTRACT.md`.
+O acesso ao produtor exige autorização separada; ler o feed e usar o widget não
+exigem esse acesso. [EXPORTER-README.md](EXPORTER-README.md) indica o comando a
+executar a partir da raiz do checkout privado.
 
 O produtor deve revisar a projeção econômica, validar o esquema e substituir
 `events.json` com um commit normal em `main`. Falha de coleta não deve publicar

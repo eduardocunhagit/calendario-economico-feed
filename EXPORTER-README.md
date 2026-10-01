@@ -20,13 +20,15 @@ Official election dates: https://www.tse.jus.br/comunicacao/noticias/2026/Marco/
 
 ## Source validation
 
-`export_feed.py` is independent of the weekly renderer. It verifies a real, complete Investing snapshot against every original downloaded page, page hashes, terminal pagination and unfiltered coverage. It rejects future or older-than-48-hour economic snapshots. The optional `--us-all` switch is diagnostic/opt-in and is not the current widget or weekly-PDF policy.
+The exporter lives in the authorized private `rotinas` repository at
+`modules/calendar-widget/export_feed.py`, alongside `INPUT-CONTRACT.md` and its
+tests. It is not included in this public feed repository. It is independent of the weekly renderer. It verifies a real, complete Investing snapshot against every original downloaded page, page hashes, terminal pagination and unfiltered coverage. It rejects future or older-than-48-hour economic snapshots. The optional `--us-all` switch is diagnostic/opt-in and is not the current widget or weekly-PDF policy.
 
 For TSE, download the current ZIP linked from the official dataset page for every refresh. Read the single consolidated `pesquisa_eleitoral_2026_BRASIL.csv` member, not the union of state files. Validate its schema, unique generation, age of at most 48 hours, dates and registrations. `SG_UF=BR` identifies electoral jurisdiction; it does not establish a nationally sampled poll.
 
 Review methodology and sample plan for every presidential registration within the requested dates. An optional **private** scope audit is bound to the exact source archive SHA-256 and each registration's combined methodology/sample-plan hash. Every decision retains an exact source excerpt. A source change invalidates the archive-bound audit; review the new evidence before declaring coverage checked. Unfamiliar scope remains pending, never silently excluded. Nationwide lists of federative units must not be mistaken for a single-state scope.
 
-The exporter constructs the output field-by-field. The complete public contract is `PUBLIC-FEED-SCHEMA.json`. Never publish source ZIPs, raw Investing pages, scope audits, collection receipts or private validation reports. Publish only the selected final feed and explicitly approved widget assets/docs.
+The exporter constructs the output field-by-field. The complete current public contract is [PUBLIC-FEED-SCHEMA.json](PUBLIC-FEED-SCHEMA.json), version 2. [schema.json](schema.json) is retained only as the historical version 1 contract. Never publish source ZIPs, raw Investing pages, scope audits, collection receipts or private validation reports. Publish only the selected final feed and explicitly approved widget assets/docs.
 
 Sources:
 - https://www.investing.com/economic-calendar/
@@ -35,10 +37,13 @@ Sources:
 
 ## Refresh command
 
-After collecting fresh sources and reviewing the poll scopes, invoke:
+With authorized access to the private `rotinas` checkout, collect fresh sources
+and review poll scopes. From that checkout's root, invoke the command below.
+`INPUT`, `OUTPUT` and `PRIVATE` are operator-selected local paths; this public
+repository does not contain those runtime inputs or the exporter.
 
 ```sh
-python export_feed.py INPUT/investing.json OUTPUT/events.json \
+python modules/calendar-widget/export_feed.py INPUT/investing.json OUTPUT/events.json \
   --tse-zip INPUT/tse.zip \
   --scope-review PRIVATE/national-scope-audit.json \
   --polls-start YYYY-MM-DD \
@@ -47,7 +52,12 @@ python export_feed.py INPUT/investing.json OUTPUT/events.json \
 
 Use today's BRT date for `--polls-start`. Keep private source evidence outside the publication directory. The exporter defaults to the existing economic selection. A successful output does not mean it was published; validate the schema, reconcile source counts, upload only the approved files, and verify the exact live bytes separately.
 
-## Verified 2026-10-01 snapshot
+## Historical 2026-10-01 verification snapshot
+
+These counts describe the earlier verification sample below, not a live counter.
+The later feed at commit `fb28e780cd56393652bbc818a65dfe1a7d8ecd12` contains
+179 events. Read the current `events.json` for its own counts, coverage and collection
+time; do not treat this historical section as current source freshness.
 
 - Economic coverage: September 28–October 11; 159 prior economic entries retained without changing their seven original fields
 - TSE generation: September 30 at 05:46:47 BRT, freshly downloaded October 1
