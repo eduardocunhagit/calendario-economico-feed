@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-09-30T23:58:11.460907-03:00",
+  "updated_at": "2026-10-01T08:16:45.336964-03:00",
   "coverage_start": "2026-09-28",
   "coverage_end": "2026-10-11",
   "economic_coverage": [
@@ -15,7 +15,7 @@
     "status": "checked",
     "coverage_start": "2026-10-01",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-01T01:23:52.014673-03:00",
+    "checked_at": "2026-10-01T08:17:54.551964-03:00",
     "source_generated_at": "2026-09-30T05:46:47-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
@@ -1650,6 +1650,18 @@
       "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
     },
     {
+      "id": "558509",
+      "kind": "economic",
+      "title": "Bank of England Monetary Policy Committee (MPC) Member Mann Speaks",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-06T08:30:00+00:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/news/speeches"
+    },
+    {
       "id": "557482",
       "kind": "economic",
       "title": "U.K. Construction Purchasing Managers Index (PMI)",
@@ -1722,6 +1734,18 @@
       "source_url": "https://www.atlantafed.org/cqer/research/gdpnow"
     },
     {
+      "id": "558511",
+      "kind": "economic",
+      "title": "EIA Short-Term Energy Outlook",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-06T16:00:00+00:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.eia.gov/outlooks/steo/"
+    },
+    {
       "id": "558321",
       "kind": "economic",
       "title": "U.S. 3-Year Note Auction",
@@ -1744,6 +1768,30 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://comexstat.mdic.gov.br/en/geral"
+    },
+    {
+      "id": "558508",
+      "kind": "economic",
+      "title": "U.S. API Weekly Crude Oil Stock",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-06T20:30:00+00:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.investing.com/economic-calendar/"
+    },
+    {
+      "id": "558514",
+      "kind": "economic",
+      "title": "FOMC Member Williams Speaks",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-07T01:05:00+00:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
     },
     {
       "id": "557894",
@@ -1926,6 +1974,18 @@
       "source_url": "https://www.investing.com/economic-calendar/"
     },
     {
+      "id": "558515",
+      "kind": "economic",
+      "title": "BOE Credit Conditions Survey",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-08T08:30:00+00:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/"
+    },
+    {
       "id": "558416",
       "kind": "economic",
       "title": "Eurogroup Meetings",
@@ -1938,6 +1998,18 @@
       "source_url": "https://www.consilium.europa.eu/en/eurogroup/"
     },
     {
+      "id": "558517",
+      "kind": "economic",
+      "title": "Bank of England Monetary Policy Committee (MPC) Member Pill Speaks",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-08T10:30:00+00:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/news/speeches"
+    },
+    {
       "id": "558414",
       "kind": "economic",
       "title": "ECB Publishes Account of Monetary Policy Meeting",
@@ -1948,6 +2020,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/"
+    },
+    {
+      "id": "558518",
+      "kind": "economic",
+      "title": "Bank of England Governor Bailey Speaks",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-08T12:15:00+00:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/"
     },
     {
       "id": "558350",
