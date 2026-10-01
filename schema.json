@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Public economic calendar feed",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "status", "timezone", "updated_at", "events"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "status": {"enum": ["pending", "ready"]},
+    "timezone": {"const": "America/Sao_Paulo"},
+    "updated_at": {"type": ["string", "null"], "format": "date-time"},
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "title", "country", "datetime", "timezone", "importance", "source_url", "updated_at"],
+        "properties": {
+          "id": {"type": "string", "minLength": 1, "maxLength": 150},
+          "title": {"type": "string", "minLength": 1, "maxLength": 240},
+          "country": {"type": "string", "minLength": 2, "maxLength": 30},
+          "datetime": {"type": "string", "format": "date-time"},
+          "timezone": {"const": "America/Sao_Paulo"},
+          "importance": {"enum": ["low", "medium", "high"]},
+          "source_url": {"type": "string", "format": "uri", "pattern": "^https://[^/@]+/"},
+          "updated_at": {"type": "string", "format": "date-time"}
+        }
+      }
+    }
+  },
+  "allOf": [
+    {"if": {"properties": {"status": {"const": "pending"}}}, "then": {"properties": {"events": {"maxItems": 0}, "updated_at": {"type": "null"}}}},
+    {"if": {"properties": {"status": {"const": "ready"}}}, "then": {"properties": {"updated_at": {"type": "string", "format": "date-time"}}}}
+  ]
+}
