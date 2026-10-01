@@ -1,0 +1,277 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Calendário Econômico public widget feed v2",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "timezone",
+    "updated_at",
+    "coverage_start",
+    "coverage_end",
+    "economic_coverage",
+    "polls",
+    "events"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 2
+    },
+    "timezone": {
+      "const": "America/Sao_Paulo"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "coverage_start": {
+      "type": "string",
+      "format": "date"
+    },
+    "coverage_end": {
+      "type": "string",
+      "format": "date"
+    },
+    "economic_coverage": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "BR_all",
+          "US_all",
+          "US_medium_high",
+          "EZ_medium_high",
+          "UK_medium_high",
+          "other_rate_decisions"
+        ]
+      }
+    },
+    "polls": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "coverage_start",
+        "coverage_end",
+        "checked_at",
+        "active_until"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "checked",
+            "pending"
+          ]
+        },
+        "coverage_start": {
+          "type": "string",
+          "format": "date"
+        },
+        "coverage_end": {
+          "type": "string",
+          "format": "date"
+        },
+        "checked_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "source_generated_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "active_until": {
+          "type": "string",
+          "format": "date"
+        },
+        "first_round": {
+          "type": "string",
+          "format": "date"
+        },
+        "runoff_conditional": {
+          "type": "boolean"
+        },
+        "election_source_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://www\\.tse\\.jus\\.br/"
+        },
+        "date_meaning": {
+          "const": "permitted_release_not_confirmed_publication"
+        },
+        "unknown_time": {
+          "type": "boolean"
+        },
+        "unresolved_count": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "checked"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "source_generated_at",
+              "unresolved_count"
+            ],
+            "properties": {
+              "checked_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "unresolved_count": {
+                "const": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "kind",
+              "title",
+              "country",
+              "currency",
+              "starts_at",
+              "date",
+              "time_status",
+              "importance",
+              "source_url"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "kind": {
+                "const": "economic"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "country": {
+                "type": "string"
+              },
+              "currency": {
+                "type": "string"
+              },
+              "starts_at": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "date": {
+                "type": "string",
+                "format": "date"
+              },
+              "time_status": {
+                "const": "exact"
+              },
+              "importance": {
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              },
+              "source_url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://"
+              }
+            }
+          },
+          {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "kind",
+              "title",
+              "country",
+              "currency",
+              "starts_at",
+              "date",
+              "time_status",
+              "importance",
+              "source_url",
+              "institute",
+              "registration",
+              "permitted_release_date"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "kind": {
+                "const": "poll"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "country": {
+                "const": "Brasil"
+              },
+              "currency": {
+                "type": "string"
+              },
+              "starts_at": {
+                "type": "null"
+              },
+              "date": {
+                "type": "string",
+                "format": "date"
+              },
+              "time_status": {
+                "const": "unknown"
+              },
+              "importance": {
+                "enum": [
+                  "low",
+                  "medium",
+                  "high"
+                ]
+              },
+              "source_url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://"
+              },
+              "institute": {
+                "type": "string",
+                "minLength": 1
+              },
+              "registration": {
+                "type": "string",
+                "pattern": "^BR-\\d{5}/2026$"
+              },
+              "permitted_release_date": {
+                "type": "string",
+                "format": "date"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
