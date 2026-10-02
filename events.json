@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-10-01T08:16:45.336964-03:00",
+  "updated_at": "2026-10-02T08:38:10.272320-03:00",
   "coverage_start": "2026-09-28",
   "coverage_end": "2026-10-11",
   "economic_coverage": [
@@ -13,10 +13,10 @@
   ],
   "polls": {
     "status": "checked",
-    "coverage_start": "2026-10-01",
+    "coverage_start": "2026-10-02",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-01T08:17:54.551964-03:00",
-    "source_generated_at": "2026-09-30T05:46:47-03:00",
+    "checked_at": "2026-10-02T08:42:45.565738-03:00",
+    "source_generated_at": "2026-10-01T05:46:57-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": true,
@@ -747,36 +747,6 @@
       "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
     },
     {
-      "id": "tse-BR080392026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • DATAFOLHA INSTITUTO DE PESQUISAS LTDA. • BR-08039/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-01",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "DATAFOLHA INSTITUTO DE PESQUISAS LTDA.",
-      "registration": "BR-08039/2026",
-      "permitted_release_date": "2026-10-01"
-    },
-    {
-      "id": "tse-BR095032026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • REAL TIME BIG DATA • BR-09503/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-01",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "REAL TIME BIG DATA",
-      "registration": "BR-09503/2026",
-      "permitted_release_date": "2026-10-01"
-    },
-    {
       "id": "557818",
       "kind": "economic",
       "title": "U.K. Nationwide HPI MoM",
@@ -993,6 +963,18 @@
       "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
     },
     {
+      "id": "556277",
+      "kind": "economic",
+      "title": "Federal Reserve Bank of Atlanta GDPNow",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-01T15:00:00+00:00",
+      "date": "2026-10-01",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow"
+    },
+    {
       "id": "558251",
       "kind": "economic",
       "title": "European Central Bank Schnabel Speaks",
@@ -1003,18 +985,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html?name_of_publication=Speech"
-    },
-    {
-      "id": "556277",
-      "kind": "economic",
-      "title": "Federal Reserve Bank of Atlanta GDPNow",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T15:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow"
     },
     {
       "id": "558243",
@@ -1722,6 +1692,18 @@
       "source_url": "https://www.bea.gov/"
     },
     {
+      "id": "558586",
+      "kind": "economic",
+      "title": "U.S. Federal Open Market Committee (FOMC) Member Michelle W. Bowman Speaks",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-06T14:45:00+00:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
+    },
+    {
       "id": "556458",
       "kind": "economic",
       "title": "Federal Reserve Bank of Atlanta GDPNow",
@@ -1902,6 +1884,30 @@
       "source_url": "https://nbp.pl/"
     },
     {
+      "id": "558550",
+      "kind": "economic",
+      "title": "U.S. Crude Oil Inventories",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-07T14:30:00+00:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.eia.gov/"
+    },
+    {
+      "id": "558552",
+      "kind": "economic",
+      "title": "U.S. Cushing Crude Oil Inventories",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-07T14:30:00+00:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.eia.gov/"
+    },
+    {
       "id": "558343",
       "kind": "economic",
       "title": "U.S. NY Fed 1-Year Consumer Inflation Expectations",
@@ -1924,6 +1930,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm"
+    },
+    {
+      "id": "558561",
+      "kind": "economic",
+      "title": "Brazil Foreign Exchange Flows",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-07T17:30:00+00:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/publicacoes"
     },
     {
       "id": "558345",
