@@ -3,14 +3,8 @@
   "timezone": "America/Sao_Paulo",
   "updated_at": "2026-10-03T08:21:31.107596-03:00",
   "coverage_start": "2026-09-28",
-  "coverage_end": "2026-10-11",
-  "economic_coverage": [
-    "BR_all",
-    "US_medium_high",
-    "EZ_medium_high",
-    "UK_medium_high",
-    "other_rate_decisions"
-  ],
+  "coverage_end": "2026-10-18",
+  "economic_coverage": [],
   "polls": {
     "status": "checked",
     "coverage_start": "2026-10-05",
@@ -1308,7 +1302,7 @@
       "date": "2026-10-05",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
     },
     {
       "id": "557387",
@@ -1320,7 +1314,7 @@
       "date": "2026-10-05",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
     },
     {
       "id": "557390",
@@ -1332,7 +1326,7 @@
       "date": "2026-10-05",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
     },
     {
       "id": "557392",
@@ -1344,7 +1338,31 @@
       "date": "2026-10-05",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
+    },
+    {
+      "id": "official:eurostat:ppi:2026-10-05",
+      "kind": "economic",
+      "title": "Industrial producer prices, domestic market",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-05T11:00:00+02:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:fgv:ipc-c1:2026-10-05",
+      "kind": "economic",
+      "title": "IPC-C1",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-05T11:00:00-03:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
     },
     {
       "id": "558299",
@@ -1416,7 +1434,7 @@
       "date": "2026-10-05",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "557407",
@@ -1428,7 +1446,7 @@
       "date": "2026-10-05",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "557410",
@@ -1440,19 +1458,7 @@
       "date": "2026-10-05",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
-    },
-    {
-      "id": "558509",
-      "kind": "economic",
-      "title": "Bank of England Monetary Policy Committee (MPC) Member Mann Speaks",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-06T08:30:00+00:00",
-      "date": "2026-10-06",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/news/speeches"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "557482",
@@ -1464,7 +1470,31 @@
       "date": "2026-10-06",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
+    },
+    {
+      "id": "558509",
+      "kind": "economic",
+      "title": "Bank of England Monetary Policy Committee (MPC) Member Mann Speaks",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-06T09:30:00+01:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:eurostat:retail-trade:2026-10-06",
+      "kind": "economic",
+      "title": "Retail trade",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-06T11:00:00+02:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
     },
     {
       "id": "558316",
@@ -1488,7 +1518,7 @@
       "date": "2026-10-06",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://bea.gov/newsreleases/international/trade/tradnewsrelease.htm"
+      "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
     },
     {
       "id": "558318",
@@ -1500,7 +1530,7 @@
       "date": "2026-10-06",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://bea.gov/newsreleases/international/trade/tradnewsrelease.htm"
+      "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
     },
     {
       "id": "557491",
@@ -1512,7 +1542,7 @@
       "date": "2026-10-06",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.bea.gov/"
+      "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
     },
     {
       "id": "558586",
@@ -1524,19 +1554,7 @@
       "date": "2026-10-06",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "558614",
-      "kind": "economic",
-      "title": "U.S. Federal Open Market Committee (FOMC) Member Michelle W. Bowman Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-06T14:45:00+00:00",
-      "date": "2026-10-06",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
       "id": "556458",
@@ -1647,6 +1665,30 @@
       "source_url": "https://www.investing.com/economic-calendar/"
     },
     {
+      "id": "557556",
+      "kind": "economic",
+      "title": "Brazil IGP-DI Inflation Index MoM",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-07T08:00:00-03:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:cb.is.rate-decision.2026-10-07",
+      "kind": "economic",
+      "title": "Central Bank of Iceland interest-rate decision / Statement of the Monetary Policy Committee",
+      "country": "Outros",
+      "currency": "ISK",
+      "starts_at": "2026-10-07T08:30:00+00:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://cb.is/"
+    },
+    {
       "id": "558340",
       "kind": "economic",
       "title": "Mortgage Rate (GBP)",
@@ -1683,16 +1725,16 @@
       "source_url": "https://www.ibge.gov.br/"
     },
     {
-      "id": "557556",
+      "id": "official:eurostat:services-production:2026-10-07",
       "kind": "economic",
-      "title": "Brazil IGP-DI Inflation Index MoM",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-07T11:00:00+00:00",
+      "title": "Services production",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-07T11:00:00+02:00",
       "date": "2026-10-07",
       "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://portal.fgv.br/"
+      "importance": "medium",
+      "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
     },
     {
       "id": "558276",
@@ -1728,7 +1770,7 @@
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.eia.gov/"
+      "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
     },
     {
       "id": "558552",
@@ -1740,7 +1782,7 @@
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.eia.gov/"
+      "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
     },
     {
       "id": "558343",
@@ -1752,7 +1794,7 @@
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.newyorkfed.org/microeconomics/sce#/"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "558344",
@@ -1788,7 +1830,7 @@
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
       "id": "557568",
@@ -1800,7 +1842,7 @@
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/releases/g19/Current/"
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
       "id": "557570",
@@ -1857,16 +1899,52 @@
       "permitted_release_date": "2026-10-08"
     },
     {
+      "id": "official:fgv:ipc-s-1a-quadrissemana:2026-10-08",
+      "kind": "economic",
+      "title": "IPC-S – 1ª quadrissemana - Out/2026",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-08T08:00:00-03:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:us.fed_speech.4eb554df1d0c.2026-10-08",
+      "kind": "economic",
+      "title": "Speech - Governor Christopher J. Waller Economic Outlook At the Central Bank of the Republic of Türkiye (TCMB) İstanbul Economic Forum, Ümraniye/İstanbul, Türkiye",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-08T08:30:00+00:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:ibge:4307",
+      "kind": "economic",
+      "title": "Pesquisa Industrial Mensal: Produção Física - Regional",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-08T09:00:00-03:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
       "id": "558515",
       "kind": "economic",
       "title": "BOE Credit Conditions Survey",
       "country": "Reino Unido",
       "currency": "GBP",
-      "starts_at": "2026-10-08T08:30:00+00:00",
+      "starts_at": "2026-10-08T09:30:00+01:00",
       "date": "2026-10-08",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/"
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
       "id": "558416",
@@ -1879,6 +1957,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.consilium.europa.eu/en/eurogroup/"
+    },
+    {
+      "id": "official:boe:megan-greene-megan-greene-speech-at-stanlib-asset-management-offshor:2026-10-08",
+      "kind": "economic",
+      "title": "Megan Greene: Speech at STANLIB Asset Management Offshore Summit 2026, Cape Town, South Africa",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-08T10:15:00+01:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
       "id": "558517",
@@ -1902,7 +1992,7 @@
       "date": "2026-10-08",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/"
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "558518",
@@ -1926,7 +2016,7 @@
       "date": "2026-10-08",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.dol.gov/newsroom/economicdata"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "558349",
@@ -1938,7 +2028,7 @@
       "date": "2026-10-08",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.dol.gov/"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "556644",
@@ -1951,6 +2041,42 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://www.bnro.ro/Home.aspx"
+    },
+    {
+      "id": "official:us.wholesale_trade.2026-10-08",
+      "kind": "economic",
+      "title": "Monthly Wholesale Trade: Sales and Inventories",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-08T14:00:00+00:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview.html"
+    },
+    {
+      "id": "official:boe:clare-lombardelli-clare-lombardelli-speech-at-west-midlands-growth-summit:2026-10-08",
+      "kind": "economic",
+      "title": "Clare Lombardelli: Speech at West Midlands Growth Summit, Coventry",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-08T14:00:00+01:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:us.eia_natural_gas.2026-10-08",
+      "kind": "economic",
+      "title": "EIA Weekly Natural Gas Storage",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-08T14:30:00+00:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ir.eia.gov/ngs/ngs.html"
     },
     {
       "id": "556459",
@@ -2007,16 +2133,28 @@
       "permitted_release_date": "2026-10-09"
     },
     {
+      "id": "official:fgv:ipc-s-capitais-1a-quadrissemana:2026-10-09",
+      "kind": "economic",
+      "title": "IPC-S Capitais – 1ª quadrissemana - Out/2026",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-09T08:00:00-03:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
       "id": "557696",
       "kind": "economic",
       "title": "Brazil Consumer Price Index (CPI) MoM",
       "country": "Brasil",
       "currency": "BRL",
-      "starts_at": "2026-10-09T12:00:00+00:00",
+      "starts_at": "2026-10-09T09:00:00-03:00",
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "low",
-      "source_url": "https://www.ibge.gov.br/"
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
     },
     {
       "id": "557697",
@@ -2024,11 +2162,11 @@
       "title": "Brazil Consumer Price Index (CPI) YoY",
       "country": "Brasil",
       "currency": "BRL",
-      "starts_at": "2026-10-09T12:00:00+00:00",
+      "starts_at": "2026-10-09T09:00:00-03:00",
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.ibge.gov.br/"
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
     },
     {
       "id": "557695",
@@ -2036,11 +2174,47 @@
       "title": "Brazilian IPCA Inflation Index Seasonally Adjusted MoM",
       "country": "Brasil",
       "currency": "BRL",
-      "starts_at": "2026-10-09T12:00:00+00:00",
+      "starts_at": "2026-10-09T09:00:00-03:00",
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "low",
-      "source_url": "https://www.ibge.gov.br/"
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
+      "id": "official:ibge:4310",
+      "kind": "economic",
+      "title": "Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-09T09:00:00-03:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
+      "id": "official:ibge:4308",
+      "kind": "economic",
+      "title": "Índice Nacional de Preços ao Consumidor",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-09T09:00:00-03:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
+      "id": "official:fgv:igp-m-1-dec:2026-10-09",
+      "kind": "economic",
+      "title": "IGP-M 1 dec",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-09T11:00:00-03:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
     },
     {
       "id": "557709",
@@ -2052,7 +2226,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
+      "source_url": "https://www.sca.isr.umich.edu/"
     },
     {
       "id": "557711",
@@ -2064,7 +2238,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
+      "source_url": "https://www.sca.isr.umich.edu/"
     },
     {
       "id": "557708",
@@ -2076,7 +2250,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
+      "source_url": "https://www.sca.isr.umich.edu/"
     },
     {
       "id": "557712",
@@ -2088,7 +2262,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
+      "source_url": "https://www.sca.isr.umich.edu/"
     },
     {
       "id": "558429",
@@ -2209,6 +2383,426 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+    },
+    {
+      "id": "official:boe:sarah-breeden-sarah-breeden-interview-with-atlantic-council-on-digita:2026-10-12",
+      "kind": "economic",
+      "title": "Sarah Breeden: Interview with Atlantic Council on digital assets, tokenization and upcoming G20 presidency",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-12T10:30:00+01:00",
+      "date": "2026-10-12",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:boe:megan-greene-megan-greene-speech-at-atlantic-council-at-imf-world-ba:2026-10-13",
+      "kind": "economic",
+      "title": "Megan Greene: Speech at Atlantic Council at IMF World Bank Meetings, Bangkok",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-13T04:00:00+01:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:fgv:ipc-3i-3o-tri:2026-10-13",
+      "kind": "economic",
+      "title": "IPC-3i 3º tri",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-13T11:00:00-03:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
+    },
+    {
+      "id": "official:us.existing_home_sales.2026-10-13",
+      "kind": "economic",
+      "title": "September Existing-Home Sales",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-13T14:00:00+00:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.nar.realtor/press-releases/nar-statistical-news-release-schedule"
+    },
+    {
+      "id": "official:boe:huw-pill-huw-pill-citi-roundtable-at-imf-bangkok:2026-10-14",
+      "kind": "economic",
+      "title": "Huw Pill: Citi Roundtable at IMF, Bangkok",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-14T07:00:00+01:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:ibge:4311",
+      "kind": "economic",
+      "title": "Pesquisa Mensal de Serviços",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-14T09:00:00-03:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
+      "id": "official:us.cpi.61b9d567a7620134",
+      "kind": "economic",
+      "title": "Consumer Price Index",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-14T12:30:00+00:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
+    },
+    {
+      "id": "official:us.real_earnings.1ece95f420afe6e4",
+      "kind": "economic",
+      "title": "Real Earnings",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-14T12:30:00+00:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
+    },
+    {
+      "id": "official:us.beige_book.2026-10-14",
+      "kind": "economic",
+      "title": "Beige Book",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-14T18:00:00+00:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:boe:huw-pill-huw-pill-panel-at-the-reinventing-bretton-woods-global-:2026-10-15",
+      "kind": "economic",
+      "title": "Huw Pill: Panel at the Reinventing Bretton Woods Global Macro Program event, Bangkok",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T04:40:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:supp.europe.uk-construction.2026-10-15",
+      "kind": "economic",
+      "title": "Construction output in Great Britain: August 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T06:00:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/constructionoutputingreatbritainaugust2026"
+    },
+    {
+      "id": "official:supp.europe.uk-gdp.2026-10-15",
+      "kind": "economic",
+      "title": "GDP monthly estimate, UK: August 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T06:00:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ons.gov.uk/releases/gdpmonthlyestimateukaugust2026"
+    },
+    {
+      "id": "official:supp.europe.uk-production.2026-10-15",
+      "kind": "economic",
+      "title": "Index of Production, UK: August 2026 (includes manufacturing)",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T06:00:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/indexofproductionukaugust2026"
+    },
+    {
+      "id": "official:supp.europe.uk-services.2026-10-15",
+      "kind": "economic",
+      "title": "Index of Services, UK: August 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T06:00:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/indexofservicesukaugust2026"
+    },
+    {
+      "id": "official:supp.europe.uk-trade.2026-10-15",
+      "kind": "economic",
+      "title": "UK trade: August 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T06:00:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/uktradeaugust2026"
+    },
+    {
+      "id": "official:fgv:icomex:2026-10-15",
+      "kind": "economic",
+      "title": "ICOMEX - Set/2026",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-15T08:00:00-03:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:fgv:sondagem-do-mercado-de-trabalho:2026-10-15",
+      "kind": "economic",
+      "title": "Sondagem do Mercado de Trabalho - Set/2026",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-15T08:00:00-03:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:ibge:4312",
+      "kind": "economic",
+      "title": "Levantamento Sistemático da Produção Agrícola",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-15T09:00:00-03:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
+      "id": "official:ibge:4313",
+      "kind": "economic",
+      "title": "Pesquisa Mensal de Comércio",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-15T09:00:00-03:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
+      "id": "official:boe:sarah-breeden-sarah-breeden-panel-at-the-institute-of-international-f:2026-10-15",
+      "kind": "economic",
+      "title": "Sarah Breeden: Panel at the Institute of International Finance Annual membership meeting, ‘From prevention to resilience: cyber risk in an era of intelligent threats’, Bangkok",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T09:45:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:eurostat:industrial-production:2026-10-15",
+      "kind": "economic",
+      "title": "Industrial production",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-15T11:00:00+02:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:fgv:iace-e-icce:2026-10-15",
+      "kind": "economic",
+      "title": "IACE e ICCE",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-15T11:00:00-03:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-do-ciclo-economico_vf-1.pdf"
+    },
+    {
+      "id": "official:us.retail_sales.2026-10-15",
+      "kind": "economic",
+      "title": "Advance Monthly Sales for Retail and Food Services",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T12:30:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview.html"
+    },
+    {
+      "id": "official:us.empire_manufacturing.2026-10-15",
+      "kind": "economic",
+      "title": "Empire State Manufacturing Survey",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T12:30:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:us.jobless_claims.2026-10-15",
+      "kind": "economic",
+      "title": "Initial Claims",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T12:30:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:us.philly_manufacturing.2026-10-15",
+      "kind": "economic",
+      "title": "Philadelphia Fed Manufacturing Survey",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T12:30:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:us.ppi.cbf007759c4a596f",
+      "kind": "economic",
+      "title": "Producer Price Index",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T12:30:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
+    },
+    {
+      "id": "official:us.business_inventories.2026-10-15",
+      "kind": "economic",
+      "title": "Manufacturing and Trade: Inventories and Sales",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T14:00:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview.html"
+    },
+    {
+      "id": "official:us.eia_petroleum.2026-10-15",
+      "kind": "economic",
+      "title": "EIA Weekly Petroleum Status Report (Crude Oil Inventories)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T16:00:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
+    },
+    {
+      "id": "official:boe:andrew-bailey-andrew-bailey-fireside-chat-at-the-institute-of-interna:2026-10-16",
+      "kind": "economic",
+      "title": "Andrew Bailey: Fireside chat at the Institute of International Finance Annual membership meeting, Bangkok",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-16T03:00:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:fgv:ipc-s-2a-quadrissemana:2026-10-16",
+      "kind": "economic",
+      "title": "IPC-S – 2ª quadrissemana - Out/2026",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-16T08:00:00-03:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:eurostat:hicp-final:2026-10-16",
+      "kind": "economic",
+      "title": "Inflation (HICP)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-16T11:00:00+02:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:eurostat:trade:2026-10-16",
+      "kind": "economic",
+      "title": "International trade in goods",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-16T11:00:00+02:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:us.trade_prices.8f805a644fbc7dea",
+      "kind": "economic",
+      "title": "U.S. Import and Export Price Indexes",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T12:30:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
+    },
+    {
+      "id": "official:us.industrial_production.2026-10-16",
+      "kind": "economic",
+      "title": "G.17 - Industrial Production and Capacity Utilization",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T13:15:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     }
   ]
 }
