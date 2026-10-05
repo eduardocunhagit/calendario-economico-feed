@@ -13,14 +13,14 @@
   ],
   "polls": {
     "status": "checked",
-    "coverage_start": "2026-10-04",
+    "coverage_start": "2026-10-05",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-04T08:09:26.763240-03:00",
-    "source_generated_at": "2026-10-03T05:46:46-03:00",
+    "checked_at": "2026-10-05T08:58:11.663639-03:00",
+    "source_generated_at": "2026-10-04T05:47:24-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
-    "runoff_conditional": true,
-    "election_source_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleicoes-2026-confira-as-principais-datas-do-calendario-eleitoral",
+    "runoff_conditional": false,
+    "election_source_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
     "date_meaning": "permitted_release_not_confirmed_publication",
     "unknown_time": true,
     "unresolved_count": 0
@@ -1827,6 +1827,36 @@
       "source_url": "https://www.investing.com/economic-calendar/"
     },
     {
+      "id": "tse-BR029492026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • DATAFOLHA INSTITUTO DE PESQUISAS LTDA. • BR-02949/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-08",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "DATAFOLHA INSTITUTO DE PESQUISAS LTDA.",
+      "registration": "BR-02949/2026",
+      "permitted_release_date": "2026-10-08"
+    },
+    {
+      "id": "tse-BR081342026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • PODERDATA • BR-08134/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-08",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "PODERDATA",
+      "registration": "BR-08134/2026",
+      "permitted_release_date": "2026-10-08"
+    },
+    {
       "id": "558515",
       "kind": "economic",
       "title": "BOE Credit Conditions Survey",
@@ -1945,6 +1975,36 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm"
+    },
+    {
+      "id": "tse-BR036632026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • ATLASINTEL • BR-03663/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-09",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "ATLASINTEL",
+      "registration": "BR-03663/2026",
+      "permitted_release_date": "2026-10-09"
+    },
+    {
+      "id": "tse-BR096232026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA • BR-09623/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-09",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+      "registration": "BR-09623/2026",
+      "permitted_release_date": "2026-10-09"
     },
     {
       "id": "557696",
@@ -2149,36 +2209,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "tse-BR029492026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • DATAFOLHA INSTITUTO DE PESQUISAS LTDA. • BR-02949/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-08",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "DATAFOLHA INSTITUTO DE PESQUISAS LTDA.",
-      "registration": "BR-02949/2026",
-      "permitted_release_date": "2026-10-08"
-    },
-    {
-      "id": "tse-BR081342026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • PODERDATA • BR-08134/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-08",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "PODERDATA",
-      "registration": "BR-08134/2026",
-      "permitted_release_date": "2026-10-08"
     }
   ]
 }
