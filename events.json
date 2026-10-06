@@ -2,1296 +2,24 @@
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
   "updated_at": "2026-10-03T08:21:31.107596-03:00",
-  "coverage_start": "2026-09-28",
+  "coverage_start": "2026-10-05",
   "coverage_end": "2026-10-18",
   "economic_coverage": [],
   "polls": {
-    "status": "checked",
-    "coverage_start": "2026-10-05",
+    "status": "pending",
+    "coverage_start": "2026-10-06",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-05T08:58:11.663639-03:00",
-    "source_generated_at": "2026-10-04T05:47:24-03:00",
+    "checked_at": "2026-10-06T08:34:29.251826-03:00",
+    "source_generated_at": "2026-10-05T05:46:52-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
     "election_source_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
     "date_meaning": "permitted_release_not_confirmed_publication",
     "unknown_time": true,
-    "unresolved_count": 0
+    "unresolved_count": 1
   },
   "events": [
-    {
-      "id": "558246",
-      "kind": "economic",
-      "title": "European Central Bank Elderson Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-09-28T09:30:00+00:00",
-      "date": "2026-09-28",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/key/speaker/bm/html/index.en.html"
-    },
-    {
-      "id": "558024",
-      "kind": "economic",
-      "title": "Bank of England Monetary Policy Committee (MPC) Member Ramsden Speaks",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-09-28T10:00:00+00:00",
-      "date": "2026-09-28",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/news/speeches"
-    },
-    {
-      "id": "557781",
-      "kind": "economic",
-      "title": "BCB Focus Market Readout",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-28T11:25:00+00:00",
-      "date": "2026-09-28",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/publicacoes"
-    },
-    {
-      "id": "556861",
-      "kind": "economic",
-      "title": "Brazil Current Account (USD)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-28T11:30:00+00:00",
-      "date": "2026-09-28",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/publicacoes"
-    },
-    {
-      "id": "556860",
-      "kind": "economic",
-      "title": "Brazil Foreign direct investment (USD)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-28T11:30:00+00:00",
-      "date": "2026-09-28",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/en"
-    },
-    {
-      "id": "558233",
-      "kind": "economic",
-      "title": "U.S. Federal Open Market Committee (FOMC) Member Michelle W. Bowman Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-28T12:15:00+00:00",
-      "date": "2026-09-28",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "558234",
-      "kind": "economic",
-      "title": "European Central Bank President Lagarde Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-09-28T13:30:00+00:00",
-      "date": "2026-09-28",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/weekly/html/index.en.html"
-    },
-    {
-      "id": "556869",
-      "kind": "economic",
-      "title": "Australia Interest Rate Decision",
-      "country": "Outros",
-      "currency": "AUD",
-      "starts_at": "2026-09-29T04:30:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.rba.gov.au/"
-    },
-    {
-      "id": "556943",
-      "kind": "economic",
-      "title": "Brazil IGP-M Inflation Index MoM",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-29T11:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://portal.fgv.br/"
-    },
-    {
-      "id": "558236",
-      "kind": "economic",
-      "title": "European Central Bank President Lagarde Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-09-29T11:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/weekly/html/index.en.html"
-    },
-    {
-      "id": "556944",
-      "kind": "economic",
-      "title": "Brazil Bank lending MoM",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-29T11:30:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/"
-    },
-    {
-      "id": "556947",
-      "kind": "economic",
-      "title": "Brazil Unemployment Rate",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-29T12:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ibge.gov.br/"
-    },
-    {
-      "id": "556950",
-      "kind": "economic",
-      "title": "U.S. S&P/CS HPI Composite - 20 n.s.a. MoM",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T13:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research"
-    },
-    {
-      "id": "556951",
-      "kind": "economic",
-      "title": "U.S. S&P/CS HPI Composite - 20 n.s.a. YoY",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T13:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.spglobal.com/spdji/en/indices/indicators/sp-corelogic-case-shiller-20-city-composite-home-price-nsa-index/#news-research"
-    },
-    {
-      "id": "556956",
-      "kind": "economic",
-      "title": "U.S. CB Consumer Confidence",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T14:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.conference-board.org/topics/consumer-confidence"
-    },
-    {
-      "id": "556957",
-      "kind": "economic",
-      "title": "U.S. JOLTS Job Openings",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T14:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.bls.gov/news.release/jolts.htm"
-    },
-    {
-      "id": "558026",
-      "kind": "economic",
-      "title": "Bank of England Monetary Policy Committee (MPC) Member Mann Speaks",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-09-29T15:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/news/speeches"
-    },
-    {
-      "id": "558237",
-      "kind": "economic",
-      "title": "U.S. Federal Open Market Committee (FOMC) Member Michelle W. Bowman Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T15:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "558238",
-      "kind": "economic",
-      "title": "Fed Vice Chair for Supervision of the Board of Governors Michael S. Barr Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T16:40:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/calendar.htm"
-    },
-    {
-      "id": "558376",
-      "kind": "economic",
-      "title": "Brazil CAGED Net Payroll Jobs",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-29T17:30:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://empregabrasil.mte.gov.br/category/noticias/"
-    },
-    {
-      "id": "558247",
-      "kind": "economic",
-      "title": "European Central Bank Lane Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-09-29T18:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html?name_of_publication=Speech"
-    },
-    {
-      "id": "558145",
-      "kind": "economic",
-      "title": "FOMC Member Williams Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T18:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "558239",
-      "kind": "economic",
-      "title": "U.S. Fed Waller Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T19:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "557897",
-      "kind": "economic",
-      "title": "U.S. API Weekly Crude Oil Stock",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-29T20:30:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "557812",
-      "kind": "economic",
-      "title": "Sri Lanka Interest rate decision",
-      "country": "Outros",
-      "currency": "LKR",
-      "starts_at": "2026-09-30T02:00:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.cbsl.gov.lk/"
-    },
-    {
-      "id": "558248",
-      "kind": "economic",
-      "title": "European Central Bank Elderson Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-09-30T02:20:00+00:00",
-      "date": "2026-09-29",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/key/speaker/bm/html/index.en.html"
-    },
-    {
-      "id": "557020",
-      "kind": "economic",
-      "title": "U.K. Business Investment QoQ",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-09-30T06:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ons.gov.uk/"
-    },
-    {
-      "id": "557022",
-      "kind": "economic",
-      "title": "U.K. Current Account",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-09-30T06:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/balanceofpayments/previousReleases"
-    },
-    {
-      "id": "557014",
-      "kind": "economic",
-      "title": "U.K. Gross Domestic Product (GDP) QoQ",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-09-30T06:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.ons.gov.uk/"
-    },
-    {
-      "id": "557015",
-      "kind": "economic",
-      "title": "U.K. Gross Domestic Product (GDP) YoY",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-09-30T06:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.ons.gov.uk/"
-    },
-    {
-      "id": "557822",
-      "kind": "economic",
-      "title": "European Central Bank Non-monetary Policy Meeting",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-09-30T07:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/home/html/index.en.html"
-    },
-    {
-      "id": "557542",
-      "kind": "economic",
-      "title": "Zambia Interest Rate Decision",
-      "country": "Outros",
-      "currency": "ZMK",
-      "starts_at": "2026-09-30T09:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "557088",
-      "kind": "economic",
-      "title": "Brazil Budget Balance",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-30T11:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes"
-    },
-    {
-      "id": "557091",
-      "kind": "economic",
-      "title": "Brazil Budget Surplus",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-30T11:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes"
-    },
-    {
-      "id": "557089",
-      "kind": "economic",
-      "title": "Brazil Gross Debt-to-GDP ratio",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-30T11:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais"
-    },
-    {
-      "id": "557090",
-      "kind": "economic",
-      "title": "Brazil Net Debt-to-GDP ratio",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-30T11:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais"
-    },
-    {
-      "id": "557093",
-      "kind": "economic",
-      "title": "Brazil Long Term Interest Rate TJLP",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-30T12:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/publicacoes"
-    },
-    {
-      "id": "557094",
-      "kind": "economic",
-      "title": "Brazilian Producer Price Index MoM",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-30T12:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.ibge.gov.br/"
-    },
-    {
-      "id": "557108",
-      "kind": "economic",
-      "title": "U.S. ADP Nonfarm Employment Change",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:15:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://adpemploymentreport.com/"
-    },
-    {
-      "id": "557117",
-      "kind": "economic",
-      "title": "U.S. Core PCE Price Index MoM",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.bea.gov/"
-    },
-    {
-      "id": "557116",
-      "kind": "economic",
-      "title": "U.S. Core PCE Price Index YoY",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.bea.gov/"
-    },
-    {
-      "id": "557119",
-      "kind": "economic",
-      "title": "U.S. Core PCE Prices",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "557124",
-      "kind": "economic",
-      "title": "U.S. Goods Trade Balance",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.census.gov/foreign-trade/index.html"
-    },
-    {
-      "id": "557121",
-      "kind": "economic",
-      "title": "U.S. Gross Domestic Product (GDP) Price Index QoQ",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm"
-    },
-    {
-      "id": "557118",
-      "kind": "economic",
-      "title": "U.S. Gross Domestic Product (GDP) QoQ",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.bea.gov/newsreleases/national/gdp/gdpnewsrelease.htm"
-    },
-    {
-      "id": "557111",
-      "kind": "economic",
-      "title": "U.S. PCE Price index YoY",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.commerce.gov/"
-    },
-    {
-      "id": "557113",
-      "kind": "economic",
-      "title": "U.S. PCE price index",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.commerce.gov/"
-    },
-    {
-      "id": "557114",
-      "kind": "economic",
-      "title": "U.S. Personal Spending MoM",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bea.gov/"
-    },
-    {
-      "id": "557122",
-      "kind": "economic",
-      "title": "U.S. Retail Inventories Excluding Auto",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T12:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.census.gov/"
-    },
-    {
-      "id": "557128",
-      "kind": "economic",
-      "title": "U.S. Chicago Purchasing Managers Index (PMI)",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T13:45:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://chicago.ismworld.org/"
-    },
-    {
-      "id": "557841",
-      "kind": "economic",
-      "title": "Mozambique Interest rate decision",
-      "country": "Outros",
-      "currency": "MZN",
-      "starts_at": "2026-09-30T14:15:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "556276",
-      "kind": "economic",
-      "title": "Federal Reserve Bank of Atlanta GDPNow",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T14:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow"
-    },
-    {
-      "id": "558112",
-      "kind": "economic",
-      "title": "U.S. Crude Oil Inventories",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T14:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.eia.gov/"
-    },
-    {
-      "id": "558106",
-      "kind": "economic",
-      "title": "U.S. Cushing Crude Oil Inventories",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T14:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.eia.gov/"
-    },
-    {
-      "id": "558249",
-      "kind": "economic",
-      "title": "European Central Bank Schnabel Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-09-30T15:45:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html?name_of_publication=Speech"
-    },
-    {
-      "id": "558116",
-      "kind": "economic",
-      "title": "Brazil Foreign Exchange Flows",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-09-30T17:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/publicacoes"
-    },
-    {
-      "id": "557136",
-      "kind": "economic",
-      "title": "Colombia Interest Rate Decision",
-      "country": "Outros",
-      "currency": "COP",
-      "starts_at": "2026-09-30T18:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.banrep.gov.co/en/news-and-publications"
-    },
-    {
-      "id": "558392",
-      "kind": "economic",
-      "title": "U.S. President Trump Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T19:30:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.whitehouse.gov/briefings-statements/"
-    },
-    {
-      "id": "558149",
-      "kind": "economic",
-      "title": "FOMC Member Kashkari Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-09-30T22:00:00+00:00",
-      "date": "2026-09-30",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "557818",
-      "kind": "economic",
-      "title": "U.K. Nationwide HPI MoM",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-01T06:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.nationwidehousepriceindex.co.uk/reports"
-    },
-    {
-      "id": "557819",
-      "kind": "economic",
-      "title": "U.K. Nationwide HPI YoY",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-01T06:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "558150",
-      "kind": "economic",
-      "title": "Bank of England Governor Bailey Speaks",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-01T08:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/"
-    },
-    {
-      "id": "557204",
-      "kind": "economic",
-      "title": "Eurozone Manufacturing Purchasing Managers Index (PMI)",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-01T08:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
-    },
-    {
-      "id": "557205",
-      "kind": "economic",
-      "title": "U.K. Manufacturing Purchasing Managers Index (PMI)",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-01T08:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
-    },
-    {
-      "id": "557206",
-      "kind": "economic",
-      "title": "Eurozone Unemployment Rate",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-01T09:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://ec.europa.eu/eurostat"
-    },
-    {
-      "id": "558035",
-      "kind": "economic",
-      "title": "Bank of England Monetary Policy Committee (MPC) Member Mann Speaks",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-01T12:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/news/speeches"
-    },
-    {
-      "id": "558250",
-      "kind": "economic",
-      "title": "Bank of England Monetary Policy Committee (MPC) Member Pill Speaks",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-01T12:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/news/speeches"
-    },
-    {
-      "id": "557900",
-      "kind": "economic",
-      "title": "U.S. Continuing Jobless Claims",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T12:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.dol.gov/newsroom/economicdata"
-    },
-    {
-      "id": "557899",
-      "kind": "economic",
-      "title": "U.S. Initial Jobless Claims",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T12:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.dol.gov/"
-    },
-    {
-      "id": "557222",
-      "kind": "economic",
-      "title": "Brazil S&P Global Manufacturing Purchasing Managers Index (PMI)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-01T13:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
-    },
-    {
-      "id": "558153",
-      "kind": "economic",
-      "title": "European Central Bank President Lagarde Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-01T13:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/weekly/html/index.en.html"
-    },
-    {
-      "id": "557225",
-      "kind": "economic",
-      "title": "U.S. Manufacturing Purchasing Managers Index (PMI)",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T13:45:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
-    },
-    {
-      "id": "557230",
-      "kind": "economic",
-      "title": "U.S. Construction Spending MoM",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T14:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.census.gov/"
-    },
-    {
-      "id": "558241",
-      "kind": "economic",
-      "title": "U.S. Fed Waller Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T14:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "557226",
-      "kind": "economic",
-      "title": "U.S. ISM Manufacturing Employment",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T14:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
-    },
-    {
-      "id": "557229",
-      "kind": "economic",
-      "title": "U.S. ISM Manufacturing Prices",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T14:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
-    },
-    {
-      "id": "557228",
-      "kind": "economic",
-      "title": "U.S. ISM Manufacturing Purchasing Managers Index (PMI)",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T14:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
-    },
-    {
-      "id": "556277",
-      "kind": "economic",
-      "title": "Federal Reserve Bank of Atlanta GDPNow",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T15:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow"
-    },
-    {
-      "id": "558251",
-      "kind": "economic",
-      "title": "European Central Bank Schnabel Speaks",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-01T15:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html?name_of_publication=Speech"
-    },
-    {
-      "id": "558243",
-      "kind": "economic",
-      "title": "U.S. Federal Open Market Committee (FOMC) Member Michelle W. Bowman Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T19:00:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "558159",
-      "kind": "economic",
-      "title": "FOMC Member Williams Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T19:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
-      "id": "558139",
-      "kind": "economic",
-      "title": "U.S. Federal Reserve Balance Sheet",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-01T20:30:00+00:00",
-      "date": "2026-10-01",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/releases/h41/"
-    },
-    {
-      "id": "557285",
-      "kind": "economic",
-      "title": "Brazil IPC-Fipe Inflation Index MoM",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-02T09:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "557940",
-      "kind": "economic",
-      "title": "Eurozone Consumer Price Index (CPI) MoM",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-02T09:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://ec.europa.eu/eurostat"
-    },
-    {
-      "id": "557288",
-      "kind": "economic",
-      "title": "Eurozone Consumer Price Index (CPI) YoY",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-02T09:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://ec.europa.eu/eurostat"
-    },
-    {
-      "id": "557938",
-      "kind": "economic",
-      "title": "Eurozone Core Consumer Price Index (CPI) YoY",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-02T09:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://ec.europa.eu/eurostat"
-    },
-    {
-      "id": "557294",
-      "kind": "economic",
-      "title": "Brazil Industrial Production MoM",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-02T12:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.ibge.gov.br/"
-    },
-    {
-      "id": "557295",
-      "kind": "economic",
-      "title": "Brazil Industrial Production YoY",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-02T12:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.ibge.gov.br/"
-    },
-    {
-      "id": "557305",
-      "kind": "economic",
-      "title": "U.S. Average Hourly Earnings MoM",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T12:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.bls.gov/news.release/empsit.toc.htm"
-    },
-    {
-      "id": "557302",
-      "kind": "economic",
-      "title": "U.S. Average Hourly Earnings YoY",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T12:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bls.gov/news.release/empsit.toc.htm"
-    },
-    {
-      "id": "557300",
-      "kind": "economic",
-      "title": "U.S. Nonfarm Payrolls",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T12:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm"
-    },
-    {
-      "id": "557304",
-      "kind": "economic",
-      "title": "U.S. Participation Rate",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T12:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm"
-    },
-    {
-      "id": "557299",
-      "kind": "economic",
-      "title": "U.S. Private Nonfarm Payrolls",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T12:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bls.gov/news.release/empsit.toc.htm"
-    },
-    {
-      "id": "557303",
-      "kind": "economic",
-      "title": "U.S. U6 Unemployment Rate",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T12:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bls.gov/news.release/empsit.t15.htm"
-    },
-    {
-      "id": "557301",
-      "kind": "economic",
-      "title": "U.S. Unemployment Rate",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T12:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm"
-    },
-    {
-      "id": "557311",
-      "kind": "economic",
-      "title": "U.S. Factory Orders MoM",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T14:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.census.gov/"
-    },
-    {
-      "id": "557906",
-      "kind": "economic",
-      "title": "U.S. Baker Hughes Oil Rig Count",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T17:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "557907",
-      "kind": "economic",
-      "title": "U.S. Baker Hughes Total Rig Count",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T17:00:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "558213",
-      "kind": "economic",
-      "title": "CFTC BRL speculative net positions",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-02T19:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "558222",
-      "kind": "economic",
-      "title": "CFTC Crude Oil speculative net positions",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T19:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "558217",
-      "kind": "economic",
-      "title": "CFTC EUR speculative net positions",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-10-02T19:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "558214",
-      "kind": "economic",
-      "title": "CFTC GBP speculative net positions",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-02T19:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "558220",
-      "kind": "economic",
-      "title": "CFTC Gold speculative net positions",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T19:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "558212",
-      "kind": "economic",
-      "title": "CFTC Nasdaq 100 speculative net positions",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T19:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "558210",
-      "kind": "economic",
-      "title": "CFTC S&P 500 speculative net positions",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-02T19:30:00+00:00",
-      "date": "2026-10-02",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
-      "id": "557956",
-      "kind": "economic",
-      "title": "OPEC Meeting",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-04T10:00:00+00:00",
-      "date": "2026-10-04",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
     {
       "id": "557386",
       "kind": "economic",
@@ -1341,6 +69,42 @@
       "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
     },
     {
+      "id": "558299",
+      "kind": "economic",
+      "title": "BCB Focus Market Readout",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-05T08:30:00-03:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
+    },
+    {
+      "id": "official:ecb:philip-r-lane:keynote-speech-by-mr-lane-at-ecb-conference-on-monetary-poli:2026-10-05",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Keynote speech by Mr Lane at ECB Conference on Monetary Policy 2026: bridging science and practice in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-05T10:00:00+02:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:isabel-schnabel:participation-by-ms-schnabel-in-meeting-with-ausschuss-f-r-w:2026-10-05",
+      "kind": "economic",
+      "title": "ECB Isabel Schnabel: Participation by Ms Schnabel in meeting with \"Ausschuss für Wirtschafts- und Währungspolitik\" of the Association of German Banks in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-05T11:00:00+02:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:eurostat:ppi:2026-10-05",
       "kind": "economic",
       "title": "Industrial producer prices, domestic market",
@@ -1363,18 +127,6 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
-    },
-    {
-      "id": "558299",
-      "kind": "economic",
-      "title": "BCB Focus Market Readout",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-05T11:25:00+00:00",
-      "date": "2026-10-05",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/publicacoes"
     },
     {
       "id": "557402",
@@ -1425,6 +177,18 @@
       "source_url": "https://www.pmi.spglobal.com/Public/Release/PressReleases"
     },
     {
+      "id": "official:ecb:sharon-donnery:participation-by-ms-donnery-in-panel-discussion-at-oenb-suer:2026-10-05",
+      "kind": "economic",
+      "title": "ECB Sharon Donnery: Participation by Ms Donnery in panel discussion at OeNB-SUERF-JVI-Yale Conference in Vienna, Austria",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-05T13:45:00+02:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "557409",
       "kind": "economic",
       "title": "U.S. ISM Non-Manufacturing Employment",
@@ -1459,6 +223,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:ecb:claudia-buch:participation-by-ms-buch-in-panel-discussion-at-oenb-suerf-j:2026-10-05",
+      "kind": "economic",
+      "title": "ECB Claudia Buch: Participation by Ms Buch in panel discussion at OeNB-SUERF-JVI-Yale Conference in Vienna, Austria",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-05T16:15:00+02:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "557482",
@@ -1497,6 +273,18 @@
       "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
     },
     {
+      "id": "official:ecb:sharon-donnery:participation-by-ms-donnery-in-panel-discussion-at-17th-fma-:2026-10-06",
+      "kind": "economic",
+      "title": "ECB Sharon Donnery: Participation by Ms Donnery in panel discussion at 17th FMA Supervisory Conference in Vienna, Austria",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-06T11:10:00+02:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "558316",
       "kind": "economic",
       "title": "U.S. ADP Employment Change Weekly",
@@ -1506,7 +294,7 @@
       "date": "2026-10-06",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://adpemploymentreport.com/"
+      "source_url": "https://adpemploymentreport.com/ner_production.json"
     },
     {
       "id": "558317",
@@ -1545,6 +333,30 @@
       "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
     },
     {
+      "id": "558514",
+      "kind": "economic",
+      "title": "FOMC Member Williams Speaks",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-06T13:05:00+00:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/press"
+    },
+    {
+      "id": "official:ecb:claudia-buch:participation-by-ms-buch-in-panel-discussion-at-17th-fma-sup:2026-10-06",
+      "kind": "economic",
+      "title": "ECB Claudia Buch: Participation by Ms Buch in panel discussion at 17th FMA Supervisory Conference in Vienna, Austria",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-06T13:40:00+02:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "558586",
       "kind": "economic",
       "title": "U.S. Federal Open Market Committee (FOMC) Member Michelle W. Bowman Speaks",
@@ -1555,6 +367,30 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:ecb:frank-elderson:participation-by-mr-elderson-in-panel-discussion-at-17th-fma:2026-10-06",
+      "kind": "economic",
+      "title": "ECB Frank Elderson: Participation by Mr Elderson in panel discussion at 17th FMA Supervisory Conference in Vienna, Austria",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-06T15:00:00+02:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:piero-cipollone:participation-by-mr-cipollone-in-livestreamed-mni-connect-vi:2026-10-06",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Participation by Mr Cipollone in livestreamed MNI Connect video conference on the digital euro",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-06T15:00:00+02:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "556458",
@@ -1590,7 +426,7 @@
       "date": "2026-10-06",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm"
+      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_2.pdf"
     },
     {
       "id": "557495",
@@ -1617,18 +453,6 @@
       "source_url": "https://www.investing.com/economic-calendar/"
     },
     {
-      "id": "558514",
-      "kind": "economic",
-      "title": "FOMC Member Williams Speaks",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-07T01:05:00+00:00",
-      "date": "2026-10-06",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.federalreserve.gov/newsevents/speeches.htm"
-    },
-    {
       "id": "557894",
       "kind": "economic",
       "title": "India Interest Rate Decision",
@@ -1646,11 +470,11 @@
       "title": "U.K. Lloyds House Price Index MoM",
       "country": "Reino Unido",
       "currency": "GBP",
-      "starts_at": "2026-10-07T06:00:00+00:00",
+      "starts_at": "2026-10-07T07:00:00+01:00",
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
+      "source_url": "https://www.lloydsbank.com/media-centre/house-price-index.html"
     },
     {
       "id": "557524",
@@ -1658,11 +482,23 @@
       "title": "U.K. Lloyds House Price Index YoY",
       "country": "Reino Unido",
       "currency": "GBP",
-      "starts_at": "2026-10-07T06:00:00+00:00",
+      "starts_at": "2026-10-07T07:00:00+01:00",
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
+      "source_url": "https://www.lloydsbank.com/media-centre/house-price-index.html"
+    },
+    {
+      "id": "official:ecb:piero-cipollone:virtual-participation-by-mr-cipollone-in-panel-discussion-at:2026-10-07",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Virtual participation by Mr Cipollone in panel discussion at Reinventing Bretton Woods Committee International Research Fair organised by the Central Bank of the Philippines in Cebu, Philippines",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-07T07:00:00+02:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "557556",
@@ -1701,6 +537,18 @@
       "source_url": "https://www.bankofengland.co.uk/"
     },
     {
+      "id": "official:ecb:boris-vuj-i:speech-by-mr-vuj-i-at-the-ebf-and-business-europe-event-bank:2026-10-07",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Speech by Mr Vujčić at the EBF and Business Europe event \"Banks’ competitiveness: EU’s agenda for a more integrated, efficient and competitive banking sector\" in Brussels, Belgium",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-07T09:20:00+02:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "557557",
       "kind": "economic",
       "title": "Brazil Auto Production MoM",
@@ -1735,6 +583,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:us.nyfed_athreya.2026-10-07",
+      "kind": "economic",
+      "title": "New York Fed Kartik Athreya: Regional and National Economic Outlook",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-07T12:15:00+00:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/press"
     },
     {
       "id": "558276",
@@ -1785,6 +645,30 @@
       "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
     },
     {
+      "id": "558561",
+      "kind": "economic",
+      "title": "Brazil Foreign Exchange Flows",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-07T14:30:00-03:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Indeco"
+    },
+    {
+      "id": "official:bcb:icbr:agendaics22indicedecommodities-brasil-ic-br",
+      "kind": "economic",
+      "title": "Índice de Commodities – Brasil (IC-Br)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-07T14:30:00-03:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=%C3%8Dndice%20de%20Commodities%20%E2%80%93%20Brasil%20(IC-Br)"
+    },
+    {
       "id": "558343",
       "kind": "economic",
       "title": "U.S. NY Fed 1-Year Consumer Inflation Expectations",
@@ -1806,19 +690,7 @@
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm"
-    },
-    {
-      "id": "558561",
-      "kind": "economic",
-      "title": "Brazil Foreign Exchange Flows",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-07T17:30:00+00:00",
-      "date": "2026-10-07",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/publicacoes"
+      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_3.pdf"
     },
     {
       "id": "558345",
@@ -1843,6 +715,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:ecb:boris-vuj-i:participation-by-mr-vuj-i-in-panel-beyond-the-balance-sheet-:2026-10-07",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Participation by Mr Vujčić in panel \"Beyond The Balance Sheet: How Banks Shape Our Financial System\" at event organised by Capitant Leuven in Brussels, Belgium",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-07T19:30:00+02:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "557570",
@@ -1983,12 +867,12 @@
       "source_url": "https://www.bankofengland.co.uk/news/speeches"
     },
     {
-      "id": "558414",
+      "id": "official:ecb:philip-r-lane:fireside-chat-and-q-a-by-mr-lane-at-societe-generale-annual-:2026-10-08",
       "kind": "economic",
-      "title": "ECB Publishes Account of Monetary Policy Meeting",
+      "title": "ECB Philip R. Lane: Fireside chat and Q&A by Mr Lane at Societe Generale Annual Global Markets Conference in London, United Kingdom",
       "country": "Eurozona",
       "currency": "EUR",
-      "starts_at": "2026-10-08T11:30:00+00:00",
+      "starts_at": "2026-10-08T12:00:00+02:00",
       "date": "2026-10-08",
       "time_status": "exact",
       "importance": "medium",
@@ -2041,6 +925,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://www.bnro.ro/Home.aspx"
+    },
+    {
+      "id": "558414",
+      "kind": "economic",
+      "title": "ECB Publishes Account of Monetary Policy Meeting",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-08T13:30:00+02:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.wholesale_trade.2026-10-08",
@@ -2100,7 +996,7 @@
       "date": "2026-10-08",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/press_auctionresults.htm"
+      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_4.pdf"
     },
     {
       "id": "tse-BR036632026",
@@ -2217,6 +1113,18 @@
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
     },
     {
+      "id": "official:ecb:piero-cipollone:virtual-participation-by-mr-cipollone-in-panel-discussion-at:2026-10-09",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Virtual participation by Mr Cipollone in panel discussion at the workshop Algo-trading & DeFi – Algorithmic Trading, Decentralized Finance and Artificial Intelligence in Capital Markets in Milan, Italy",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-09T12:15:00+02:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "557709",
       "kind": "economic",
       "title": "U.S. Michigan 1-Year Inflation Expectations",
@@ -2265,6 +1173,30 @@
       "source_url": "https://www.sca.isr.umich.edu/"
     },
     {
+      "id": "official:ecb:isabel-schnabel:presentation-and-participation-in-panel-discussion-by-ms-sch:2026-10-09",
+      "kind": "economic",
+      "title": "ECB Isabel Schnabel: Presentation and participation in panel discussion by Ms Schnabel discussion at Symposium in Honour of Professor Lars Feld in Lucerne, Switzerland",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-09T15:30:00+02:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "558635",
+      "kind": "economic",
+      "title": "CFTC BRL speculative net positions",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-09T15:30:00-04:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
       "id": "558429",
       "kind": "economic",
       "title": "United States Department of Agriculture (USDA) World Agricultural Supply and Demand Estimates Report",
@@ -2274,7 +1206,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.usda.gov/oce/commodity/wasde/"
+      "source_url": "https://www.usda.gov/oce/commodity/wasde"
     },
     {
       "id": "558356",
@@ -2301,18 +1233,6 @@
       "source_url": "https://www.investing.com/economic-calendar/"
     },
     {
-      "id": "558635",
-      "kind": "economic",
-      "title": "CFTC BRL speculative net positions",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-09T19:30:00+00:00",
-      "date": "2026-10-09",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
-    },
-    {
       "id": "558644",
       "kind": "economic",
       "title": "CFTC Crude Oil speculative net positions",
@@ -2322,7 +1242,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
     },
     {
       "id": "558639",
@@ -2334,7 +1254,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
     },
     {
       "id": "558636",
@@ -2346,7 +1266,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
     },
     {
       "id": "558642",
@@ -2358,7 +1278,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
     },
     {
       "id": "558634",
@@ -2370,7 +1290,7 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
     },
     {
       "id": "558632",
@@ -2382,7 +1302,22 @@
       "date": "2026-10-09",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm"
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
+      "id": "tse-BR009332026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • IPESPE INST DE PESQUISAS SOCIAIS POLITICAS E ECONOMICAS • BR-00933/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-10",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "IPESPE INST DE PESQUISAS SOCIAIS POLITICAS E ECONOMICAS",
+      "registration": "BR-00933/2026",
+      "permitted_release_date": "2026-10-10"
     },
     {
       "id": "official:boe:sarah-breeden-sarah-breeden-interview-with-atlantic-council-on-digita:2026-10-12",
@@ -2409,6 +1344,18 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
+      "id": "official:bcb:focus:agendaics440relatoriofocus",
+      "kind": "economic",
+      "title": "Relatório Focus",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-13T08:30:00-03:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
+    },
+    {
       "id": "official:fgv:ipc-3i-3o-tri:2026-10-13",
       "kind": "economic",
       "title": "IPC-3i 3º tri",
@@ -2419,6 +1366,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
+    },
+    {
+      "id": "official:us.adp_weekly.2026-10-13",
+      "kind": "economic",
+      "title": "ADP National Employment Report Weekly NER Pulse",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-13T12:15:00+00:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://adpemploymentreport.com/ner_production.json"
     },
     {
       "id": "official:us.existing_home_sales.2026-10-13",
@@ -2481,6 +1440,18 @@
       "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
     },
     {
+      "id": "official:bcb:indeco:agendaics192indicadoreseconomicosselecionados-indeco",
+      "kind": "economic",
+      "title": "Indicadores econômicos Selecionados (Indeco)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-14T14:30:00-03:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Indeco"
+    },
+    {
       "id": "official:us.beige_book.2026-10-14",
       "kind": "economic",
       "title": "Beige Book",
@@ -2505,42 +1476,6 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
-      "id": "official:supp.europe.uk-construction.2026-10-15",
-      "kind": "economic",
-      "title": "Construction output in Great Britain: August 2026",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-15T06:00:00+00:00",
-      "date": "2026-10-15",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ons.gov.uk/releases/constructionoutputingreatbritainaugust2026"
-    },
-    {
-      "id": "official:supp.europe.uk-gdp.2026-10-15",
-      "kind": "economic",
-      "title": "GDP monthly estimate, UK: August 2026",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-15T06:00:00+00:00",
-      "date": "2026-10-15",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.ons.gov.uk/releases/gdpmonthlyestimateukaugust2026"
-    },
-    {
-      "id": "official:supp.europe.uk-production.2026-10-15",
-      "kind": "economic",
-      "title": "Index of Production, UK: August 2026 (includes manufacturing)",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-15T06:00:00+00:00",
-      "date": "2026-10-15",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ons.gov.uk/releases/indexofproductionukaugust2026"
-    },
-    {
       "id": "official:supp.europe.uk-services.2026-10-15",
       "kind": "economic",
       "title": "Index of Services, UK: August 2026",
@@ -2553,12 +1488,48 @@
       "source_url": "https://www.ons.gov.uk/releases/indexofservicesukaugust2026"
     },
     {
+      "id": "official:supp.europe.uk-construction.2026-10-15",
+      "kind": "economic",
+      "title": "Construction output in Great Britain: August 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T07:00:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/constructionoutputingreatbritainaugust2026"
+    },
+    {
+      "id": "official:supp.europe.uk-gdp.2026-10-15",
+      "kind": "economic",
+      "title": "GDP monthly estimate, UK: August 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T07:00:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ons.gov.uk/releases/gdpmonthlyestimateukaugust2026"
+    },
+    {
+      "id": "official:supp.europe.uk-production.2026-10-15",
+      "kind": "economic",
+      "title": "Index of Production, UK: August 2026 (includes manufacturing)",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T07:00:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/indexofproductionukaugust2026"
+    },
+    {
       "id": "official:supp.europe.uk-trade.2026-10-15",
       "kind": "economic",
       "title": "UK trade: August 2026",
       "country": "Reino Unido",
       "currency": "GBP",
-      "starts_at": "2026-10-15T06:00:00+00:00",
+      "starts_at": "2026-10-15T07:00:00+01:00",
       "date": "2026-10-15",
       "time_status": "exact",
       "importance": "medium",
@@ -2757,6 +1728,18 @@
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
     },
     {
+      "id": "official:bcb:ibc:agendaics87indicedeatividadeeconomicadobancocentral-ibc-br",
+      "kind": "economic",
+      "title": "Índice de Atividade Econômica do Banco Central (IBC-Br)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-16T09:00:00-03:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=%C3%8Dndice%20de%20atividade%20econ%C3%B4mica%20(IBC-Br)"
+    },
+    {
       "id": "official:eurostat:hicp-final:2026-10-16",
       "kind": "economic",
       "title": "Inflation (HICP)",
@@ -2803,6 +1786,66 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:cftc:brl:2026-10-16",
+      "kind": "economic",
+      "title": "CFTC BRL speculative net positions",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-16T15:30:00-04:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
+      "id": "official:cftc.us.2026-10-16",
+      "kind": "economic",
+      "title": "CFTC Commitments of Traders: U.S. tracked markets",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T19:30:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
+      "id": "official:cftc.ez.2026-10-16",
+      "kind": "economic",
+      "title": "CFTC EUR speculative net positions",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-16T19:30:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
+      "id": "official:cftc.uk.2026-10-16",
+      "kind": "economic",
+      "title": "CFTC GBP speculative net positions",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-16T19:30:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
+      "id": "official:us.tic.2026-10-16",
+      "kind": "economic",
+      "title": "U.S. Treasury International Capital (TIC) Data",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T20:00:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0631"
     }
   ]
 }
