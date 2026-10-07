@@ -6,18 +6,18 @@
   "coverage_end": "2026-10-18",
   "economic_coverage": [],
   "polls": {
-    "status": "pending",
-    "coverage_start": "2026-10-06",
+    "status": "checked",
+    "coverage_start": "2026-10-07",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-06T08:34:29.251826-03:00",
-    "source_generated_at": "2026-10-05T05:46:52-03:00",
+    "checked_at": "2026-10-07T08:47:47.970014-03:00",
+    "source_generated_at": "2026-10-06T05:53:38-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
     "election_source_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
     "date_meaning": "permitted_release_not_confirmed_publication",
     "unknown_time": true,
-    "unresolved_count": 1
+    "unresolved_count": 0
   },
   "events": [
     {
@@ -189,6 +189,18 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:us.conference_eti.2026-10-05",
+      "kind": "economic",
+      "title": "The Conference Board Employment Trends Index (ETI)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-05T14:00:00+00:00",
+      "date": "2026-10-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.conference-board.org/data/eti.cfm"
+    },
+    {
       "id": "557409",
       "kind": "economic",
       "title": "U.S. ISM Non-Manufacturing Employment",
@@ -355,6 +367,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:us.gscpi.2026-10-06",
+      "kind": "economic",
+      "title": "Global Supply Chain Pressure Index (GSCPI)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-06T14:00:00+00:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "558586",
@@ -609,6 +633,18 @@
       "source_url": "https://www.centralbank.go.ke/"
     },
     {
+      "id": "official:us.conference_hwol.2026-10-07",
+      "kind": "economic",
+      "title": "The Conference Board Help Wanted OnLine (HWOL)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-07T14:00:00+00:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.conference-board.org/topics/help-wanted-online"
+    },
+    {
       "id": "557562",
       "kind": "economic",
       "title": "Poland Interest Rate Decision",
@@ -722,7 +758,7 @@
       "title": "ECB Boris Vujčić: Participation by Mr Vujčić in panel \"Beyond The Balance Sheet: How Banks Shape Our Financial System\" at event organised by Capitant Leuven in Brussels, Belgium",
       "country": "Eurozona",
       "currency": "EUR",
-      "starts_at": "2026-10-07T19:30:00+02:00",
+      "starts_at": "2026-10-07T19:15:00+02:00",
       "date": "2026-10-07",
       "time_status": "exact",
       "importance": "medium",
@@ -831,6 +867,18 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
+      "id": "official:boe:bank-liabilities-survey:2026-10-08",
+      "kind": "economic",
+      "title": "Bank Liabilities Survey - 2026 Q3",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-08T09:30:00+01:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "558416",
       "kind": "economic",
       "title": "Eurogroup Meetings",
@@ -879,18 +927,6 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
-      "id": "558518",
-      "kind": "economic",
-      "title": "Bank of England Governor Bailey Speaks",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-08T12:15:00+00:00",
-      "date": "2026-10-08",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bankofengland.co.uk/"
-    },
-    {
       "id": "558350",
       "kind": "economic",
       "title": "U.S. Continuing Jobless Claims",
@@ -927,6 +963,18 @@
       "source_url": "https://www.bnro.ro/Home.aspx"
     },
     {
+      "id": "558518",
+      "kind": "economic",
+      "title": "Bank of England Governor Bailey Speaks",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-08T13:15:00+01:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "558414",
       "kind": "economic",
       "title": "ECB Publishes Account of Monetary Policy Meeting",
@@ -948,7 +996,7 @@
       "date": "2026-10-08",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview.html"
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
     },
     {
       "id": "official:boe:clare-lombardelli-clare-lombardelli-speech-at-west-midlands-growth-summit:2026-10-08",
@@ -985,6 +1033,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.atlantafed.org/cqer/research/gdpnow"
+    },
+    {
+      "id": "official:us.weekly_economic_index.2026-10-08",
+      "kind": "economic",
+      "title": "Weekly Economic Index",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-08T15:30:00+00:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "558415",
@@ -1185,18 +1245,6 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
-      "id": "558635",
-      "kind": "economic",
-      "title": "CFTC BRL speculative net positions",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-09T15:30:00-04:00",
-      "date": "2026-10-09",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
-    },
-    {
       "id": "558429",
       "kind": "economic",
       "title": "United States Department of Agriculture (USDA) World Agricultural Supply and Demand Estimates Report",
@@ -1207,6 +1255,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.usda.gov/oce/commodity/wasde"
+    },
+    {
+      "id": "official:us.nyfed_staff_nowcast.2026-10-09",
+      "kind": "economic",
+      "title": "New York Fed Staff Nowcast",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-09T16:45:00+00:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "558356",
@@ -1231,6 +1291,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.investing.com/economic-calendar/"
+    },
+    {
+      "id": "558635",
+      "kind": "economic",
+      "title": "CFTC BRL speculative net positions",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-09T19:30:00+00:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
     },
     {
       "id": "558644",
@@ -1318,6 +1390,21 @@
       "institute": "IPESPE INST DE PESQUISAS SOCIAIS POLITICAS E ECONOMICAS",
       "registration": "BR-00933/2026",
       "permitted_release_date": "2026-10-10"
+    },
+    {
+      "id": "tse-BR035762026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • DATATRENDS • BR-03576/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-11",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "DATATRENDS",
+      "registration": "BR-03576/2026",
+      "permitted_release_date": "2026-10-11"
     },
     {
       "id": "official:boe:sarah-breeden-sarah-breeden-interview-with-atlantic-council-on-digita:2026-10-12",
@@ -1476,18 +1563,6 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
-      "id": "official:supp.europe.uk-services.2026-10-15",
-      "kind": "economic",
-      "title": "Index of Services, UK: August 2026",
-      "country": "Reino Unido",
-      "currency": "GBP",
-      "starts_at": "2026-10-15T06:00:00+00:00",
-      "date": "2026-10-15",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ons.gov.uk/releases/indexofservicesukaugust2026"
-    },
-    {
       "id": "official:supp.europe.uk-construction.2026-10-15",
       "kind": "economic",
       "title": "Construction output in Great Britain: August 2026",
@@ -1522,6 +1597,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ons.gov.uk/releases/indexofproductionukaugust2026"
+    },
+    {
+      "id": "official:supp.europe.uk-services.2026-10-15",
+      "kind": "economic",
+      "title": "Index of Services, UK: August 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T07:00:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/indexofservicesukaugust2026"
     },
     {
       "id": "official:supp.europe.uk-trade.2026-10-15",
@@ -1629,7 +1716,7 @@
       "date": "2026-10-15",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview.html"
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
     },
     {
       "id": "official:us.empire_manufacturing.2026-10-15",
@@ -1689,7 +1776,19 @@
       "date": "2026-10-15",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview.html"
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    },
+    {
+      "id": "official:us.weekly_economic_index.2026-10-15",
+      "kind": "economic",
+      "title": "Weekly Economic Index",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T15:30:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "official:us.eia_petroleum.2026-10-15",
@@ -1764,6 +1863,18 @@
       "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
     },
     {
+      "id": "official:us.nyfed_business_leaders.2026-10-16",
+      "kind": "economic",
+      "title": "Business Leaders Survey",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T12:30:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
       "id": "official:us.trade_prices.8f805a644fbc7dea",
       "kind": "economic",
       "title": "U.S. Import and Export Price Indexes",
@@ -1788,12 +1899,24 @@
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
+      "id": "official:us.nyfed_staff_nowcast.2026-10-16",
+      "kind": "economic",
+      "title": "New York Fed Staff Nowcast",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T16:45:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
       "id": "official:cftc:brl:2026-10-16",
       "kind": "economic",
       "title": "CFTC BRL speculative net positions",
       "country": "Brasil",
       "currency": "BRL",
-      "starts_at": "2026-10-16T15:30:00-04:00",
+      "starts_at": "2026-10-16T19:30:00+00:00",
       "date": "2026-10-16",
       "time_status": "exact",
       "importance": "medium",
