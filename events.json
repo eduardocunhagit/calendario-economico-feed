@@ -7,10 +7,10 @@
   "economic_coverage": [],
   "polls": {
     "status": "checked",
-    "coverage_start": "2026-10-07",
+    "coverage_start": "2026-10-10",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-07T08:47:47.970014-03:00",
-    "source_generated_at": "2026-10-06T05:53:38-03:00",
+    "checked_at": "2026-10-10T11:50:30.935831+00:00",
+    "source_generated_at": "2026-10-09T05:46:49-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
@@ -345,6 +345,18 @@
       "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
     },
     {
+      "id": "558321",
+      "kind": "economic",
+      "title": "U.S. 3-Year Note Auction",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-06T13:00:00-04:00",
+      "date": "2026-10-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_2.pdf"
+    },
+    {
       "id": "558514",
       "kind": "economic",
       "title": "FOMC Member Williams Speaks",
@@ -439,18 +451,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.eia.gov/outlooks/steo/"
-    },
-    {
-      "id": "558321",
-      "kind": "economic",
-      "title": "U.S. 3-Year Note Auction",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-06T17:00:00+00:00",
-      "date": "2026-10-06",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_2.pdf"
     },
     {
       "id": "557495",
@@ -621,6 +621,18 @@
       "source_url": "https://www.newyorkfed.org/press"
     },
     {
+      "id": "558344",
+      "kind": "economic",
+      "title": "U.S. 10-Year Note Auction",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-07T13:00:00-04:00",
+      "date": "2026-10-07",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_3.pdf"
+    },
+    {
       "id": "558276",
       "kind": "economic",
       "title": "Kenya Interest Rate Decision",
@@ -717,18 +729,6 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
-      "id": "558344",
-      "kind": "economic",
-      "title": "U.S. 10-Year Note Auction",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-07T17:00:00+00:00",
-      "date": "2026-10-07",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_3.pdf"
-    },
-    {
       "id": "558345",
       "kind": "economic",
       "title": "U.S. Federal Open Market Committee (FOMC) Meeting Minutes",
@@ -787,36 +787,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "tse-BR029492026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • DATAFOLHA INSTITUTO DE PESQUISAS LTDA. • BR-02949/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-08",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "DATAFOLHA INSTITUTO DE PESQUISAS LTDA.",
-      "registration": "BR-02949/2026",
-      "permitted_release_date": "2026-10-08"
-    },
-    {
-      "id": "tse-BR081342026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • PODERDATA • BR-08134/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-08",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "PODERDATA",
-      "registration": "BR-08134/2026",
-      "permitted_release_date": "2026-10-08"
     },
     {
       "id": "official:fgv:ipc-s-1a-quadrissemana:2026-10-08",
@@ -963,6 +933,18 @@
       "source_url": "https://www.bnro.ro/Home.aspx"
     },
     {
+      "id": "558415",
+      "kind": "economic",
+      "title": "U.S. 30-Year Bond Auction",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-08T13:00:00-04:00",
+      "date": "2026-10-08",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_4.pdf"
+    },
+    {
       "id": "558518",
       "kind": "economic",
       "title": "Bank of England Governor Bailey Speaks",
@@ -1047,48 +1029,6 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
-      "id": "558415",
-      "kind": "economic",
-      "title": "U.S. 30-Year Bond Auction",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-08T17:00:00+00:00",
-      "date": "2026-10-08",
-      "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20261001_4.pdf"
-    },
-    {
-      "id": "tse-BR036632026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • ATLASINTEL • BR-03663/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-09",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "ATLASINTEL",
-      "registration": "BR-03663/2026",
-      "permitted_release_date": "2026-10-09"
-    },
-    {
-      "id": "tse-BR096232026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA • BR-09623/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-09",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
-      "registration": "BR-09623/2026",
-      "permitted_release_date": "2026-10-09"
-    },
-    {
       "id": "official:fgv:ipc-s-capitais-1a-quadrissemana:2026-10-09",
       "kind": "economic",
       "title": "IPC-S Capitais – 1ª quadrissemana - Out/2026",
@@ -1171,6 +1111,30 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
+    },
+    {
+      "id": "558356",
+      "kind": "economic",
+      "title": "U.S. Baker Hughes Oil Rig Count",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-09T12:00:00-05:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://rigcount.bakerhughes.com/rig-count-overview/"
+    },
+    {
+      "id": "558357",
+      "kind": "economic",
+      "title": "U.S. Baker Hughes Total Rig Count",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-09T12:00:00-05:00",
+      "date": "2026-10-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://rigcount.bakerhughes.com/rig-count-overview/"
     },
     {
       "id": "official:ecb:piero-cipollone:virtual-participation-by-mr-cipollone-in-panel-discussion-at:2026-10-09",
@@ -1267,30 +1231,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
-    },
-    {
-      "id": "558356",
-      "kind": "economic",
-      "title": "U.S. Baker Hughes Oil Rig Count",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-09T17:00:00+00:00",
-      "date": "2026-10-09",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
-    },
-    {
-      "id": "558357",
-      "kind": "economic",
-      "title": "U.S. Baker Hughes Total Rig Count",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-10-09T17:00:00+00:00",
-      "date": "2026-10-09",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.investing.com/economic-calendar/"
     },
     {
       "id": "558635",
@@ -1419,6 +1359,81 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
+      "id": "tse-BR006502026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • 100 CIDADES • BR-00650/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-13",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "100 CIDADES",
+      "registration": "BR-00650/2026",
+      "permitted_release_date": "2026-10-13"
+    },
+    {
+      "id": "tse-BR051872026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT • BR-05187/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-13",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT",
+      "registration": "BR-05187/2026",
+      "permitted_release_date": "2026-10-13"
+    },
+    {
+      "id": "tse-BR078772026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT • BR-07877/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-13",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT",
+      "registration": "BR-07877/2026",
+      "permitted_release_date": "2026-10-13"
+    },
+    {
+      "id": "tse-BR079972026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • NEXUS • BR-07997/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-13",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "NEXUS",
+      "registration": "BR-07997/2026",
+      "permitted_release_date": "2026-10-13"
+    },
+    {
+      "id": "tse-BR012092026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • PODERDATA • BR-01209/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-13",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "PODERDATA",
+      "registration": "BR-01209/2026",
+      "permitted_release_date": "2026-10-13"
+    },
+    {
       "id": "official:boe:megan-greene-megan-greene-speech-at-atlantic-council-at-imf-world-ba:2026-10-13",
       "kind": "economic",
       "title": "Megan Greene: Speech at Atlantic Council at IMF World Bank Meetings, Bangkok",
@@ -1431,6 +1446,18 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
+      "id": "official:us.fed_speech.d9e9fad99795.2026-10-13",
+      "kind": "economic",
+      "title": "Discussion - Governor Christopher J. Waller AI At the Bloomberg New Economy Forum 2026, New Delhi, India",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-13T07:45:00+00:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
       "id": "official:bcb:focus:agendaics440relatoriofocus",
       "kind": "economic",
       "title": "Relatório Focus",
@@ -1441,6 +1468,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-elderson-in-a-panel-1-the-clean-industrial-deal-and-a-european-growth-strategy-a:2026-10-13",
+      "kind": "economic",
+      "title": "ECB Frank Elderson: Participation by Mr Elderson in a Panel 1 \"The Clean Industrial Deal and a European growth strategy\" at Friends of Europe Energy and Climate Summit in Brussels, Belgium",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-13T09:15:00+02:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:fgv:ipc-3i-3o-tri:2026-10-13",
@@ -1479,6 +1518,45 @@
       "source_url": "https://www.nar.realtor/press-releases/nar-statistical-news-release-schedule"
     },
     {
+      "id": "official:ecb:speech-by-mr-lane-at-pre-summit-dinner-hosted-by-micheal-martin-prime-minister-of-ireland-ahead-of-i:2026-10-13",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Speech by Mr Lane at pre-Summit dinner hosted by Micheál Martin, Prime Minister of Ireland ahead of International AI Summit in Dublin, Ireland",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-13T20:30:00+02:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-by-ms-lagarde-in-on-stage-conversation-with-richard-quest-leadership-in-an-age-of-chan:2026-10-14",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: Participation by Ms Lagarde in on-stage conversation with Richard Quest \"Leadership in an age of change\" at CNN Global Perspectives event in Bangkok, Thailand",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-14T04:10:00+02:00",
+      "date": "2026-10-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "tse-BR087292026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA. • BR-08729/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-14",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.",
+      "registration": "BR-08729/2026",
+      "permitted_release_date": "2026-10-14"
+    },
+    {
       "id": "official:boe:huw-pill-huw-pill-citi-roundtable-at-imf-bangkok:2026-10-14",
       "kind": "economic",
       "title": "Huw Pill: Citi Roundtable at IMF, Bangkok",
@@ -1501,6 +1579,54 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-05&ate=2026-10-18"
+    },
+    {
+      "id": "official:us.fed_speech.b1333c9eda18.2026-10-14",
+      "kind": "economic",
+      "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman Supervision and Regulation At the 2026 IIF Annual Membership Summit, Bangkok, Thailand",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-14T09:40:00+00:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:ecb:keynote-speech-by-mr-elderson-at-ecb-boe-conference-on-supervising-climate-risk-in-a-non-linear-worl:2026-10-14",
+      "kind": "economic",
+      "title": "ECB Frank Elderson: Keynote speech by Mr Elderson at ECB-BoE Conference on Supervising Climate Risk in a Non-Linear World in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-14T10:00:00+02:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:fireside-chat-by-claudia-buch-at-worlds-bank-knowledge-cafe-session-in-bangkok-thailand:2026-10-14",
+      "kind": "economic",
+      "title": "ECB Claudia Buch: Fireside chat by Claudia Buch at World’s Bank Knowledge Café session in Bangkok, Thailand",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-14T10:15:00+02:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-by-ms-lagarde-in-fireside-chat-with-josh-lipsky-organised-by-the-atlantic-council-in-b:2026-10-14",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: Participation by Ms Lagarde in fireside chat with Josh Lipsky organised by the Atlantic Council in Bangkok, Thailand",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-14T10:30:00+02:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.cpi.61b9d567a7620134",
@@ -1549,6 +1675,42 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:ecb:public-lecture-by-ms-schnabel-at-event-to-celebrate-the-foundation-of-verein-der-freunde-und-fordere:2026-10-14",
+      "kind": "economic",
+      "title": "ECB Isabel Schnabel: Public lecture by Ms Schnabel at event to celebrate the foundation of Verein der Freunde und Förderer der Volkswirtschaftslehre an der Universität Mannheim e.V. in Mannheim, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-14T18:15:00+02:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:us.fed_speech.956b7109a1d5.2026-10-14",
+      "kind": "economic",
+      "title": "Speech - Vice Chair for Supervision Michelle W. Bowman To be announced. At the Bangkok Economic Festival 2026",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T02:55:00+00:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "id": "official:ecb:participation-by-ms-buch-in-panel-discussion-at-bloomberg-global-policy-series-2026-in-bangkok-thail:2026-10-15",
+      "kind": "economic",
+      "title": "ECB Claudia Buch: Participation by Ms Buch in panel discussion at Bloomberg Global Policy Series 2026 in Bangkok, Thailand",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-15T04:45:00+02:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:boe:huw-pill-huw-pill-panel-at-the-reinventing-bretton-woods-global-:2026-10-15",
@@ -1779,6 +1941,18 @@
       "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
     },
     {
+      "id": "official:us.eia_natural_gas.2026-10-15",
+      "kind": "economic",
+      "title": "EIA Weekly Natural Gas Storage",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T14:30:00+00:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ir.eia.gov/ngs/ngs.html"
+    },
+    {
       "id": "official:us.weekly_economic_index.2026-10-15",
       "kind": "economic",
       "title": "Weekly Economic Index",
@@ -1815,6 +1989,18 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
+      "id": "official:us.fed_speech.d3cdbdafcf8d.2026-10-15",
+      "kind": "economic",
+      "title": "Discussion - Chairman Kevin Warsh Conversation between IMF Managing Director Georgieva and Federal Reserve Chaiman Warsh At the Fireside Chat with International Monetary Fund (IMF) Managing Director Kristalina Georgieva, Bangkok, Thailand",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T03:30:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
       "id": "official:fgv:ipc-s-2a-quadrissemana:2026-10-16",
       "kind": "economic",
       "title": "IPC-S – 2ª quadrissemana - Out/2026",
@@ -1835,7 +2021,7 @@
       "starts_at": "2026-10-16T09:00:00-03:00",
       "date": "2026-10-16",
       "time_status": "exact",
-      "importance": "high",
+      "importance": "low",
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=%C3%8Dndice%20de%20atividade%20econ%C3%B4mica%20(IBC-Br)"
     },
     {
