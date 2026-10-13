@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-10-07T11:46:32.550000+00:00",
+  "updated_at": "2026-10-07T11:47:29.031783+00:00",
   "coverage_start": "2026-10-12",
   "coverage_end": "2026-10-25",
   "economic_coverage": [],
@@ -531,6 +531,18 @@
       "source_url": "https://www.ons.gov.uk/releases/uktradeaugust2026"
     },
     {
+      "id": "official:boe:megan-greene-megan-greene-panel-at-the-jp-morgan-investor-seminar-at:2026-10-15",
+      "kind": "economic",
+      "title": "Megan Greene: Panel at the JP Morgan Investor Seminar at IMF meetings, Bangkok",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-15T07:45:00+01:00",
+      "date": "2026-10-15",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:fgv:icomex:2026-10-15",
       "kind": "economic",
       "title": "ICOMEX - Set/2026",
@@ -1023,6 +1035,18 @@
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
     },
     {
+      "id": "official:ons:labour-market:2026-10-20",
+      "kind": "economic",
+      "title": "UK Labour Market: October 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-20T07:00:00+01:00",
+      "date": "2026-10-20",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ons.gov.uk/releases/uklabourmarketoctober2026"
+    },
+    {
       "id": "official:us.philly_nonmanufacturing.2026-10-20",
       "kind": "economic",
       "title": "Philadelphia Fed Non-Manufacturing Survey",
@@ -1033,6 +1057,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:zew:euro-area-expectations:2026-10-20",
+      "kind": "economic",
+      "title": "ZEW Economic Sentiment: euro-area expectations",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-20T11:05:00+02:00",
+      "date": "2026-10-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.zew.de/fileadmin/FTP/div/ZEW-Konjunkturerwartungen_Termine2026_2027EN.pdf"
     },
     {
       "id": "official:us.housing_starts.2026-10-20",
@@ -1057,6 +1093,54 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.nar.realtor/press-releases/nar-statistical-news-release-schedule"
+    },
+    {
+      "id": "official:boe:megan-greene-megan-greene-speech-at-lse-economics-society-london:2026-10-20",
+      "kind": "economic",
+      "title": "Megan Greene: Speech at LSE Economics Society, London",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-20T18:00:00+01:00",
+      "date": "2026-10-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:ons:cpi:2026-10-21",
+      "kind": "economic",
+      "title": "Consumer price inflation, UK: September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-21T07:00:00+01:00",
+      "date": "2026-10-21",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ons.gov.uk/releases/consumerpriceinflationukseptember2026"
+    },
+    {
+      "id": "official:ons:ppi:2026-10-21",
+      "kind": "economic",
+      "title": "Producer price inflation, UK: September 2026 including services, July to September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-21T07:00:00+01:00",
+      "date": "2026-10-21",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/producerpriceinflationukseptember2026includingservicesjulytoseptember2026"
+    },
+    {
+      "id": "official:ons:public-finances:2026-10-21",
+      "kind": "economic",
+      "title": "Public sector finances, UK: September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-21T07:00:00+01:00",
+      "date": "2026-10-21",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/publicsectorfinancesukseptember2026"
     },
     {
       "id": "official:us.outlook_at_risk.2026-10-21",
@@ -1129,6 +1213,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:ons:retail-sales:2026-10-23",
+      "kind": "economic",
+      "title": "Retail sales, Great Britain: September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-23T07:00:00+01:00",
+      "date": "2026-10-23",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ons.gov.uk/releases/retailsalesgreatbritainseptember2026"
     },
     {
       "id": "official:fgv:ipc-s-3a-quadrissemana:2026-10-23",
