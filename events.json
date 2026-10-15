@@ -7,10 +7,10 @@
   "economic_coverage": [],
   "polls": {
     "status": "pending",
-    "coverage_start": "2026-10-14",
+    "coverage_start": "2026-10-15",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-14T11:57:54.248761+00:00",
-    "source_generated_at": "2026-10-13T10:44:26-03:00",
+    "checked_at": "2026-10-15T11:25:16.324874+00:00",
+    "source_generated_at": "2026-10-14T05:47:34-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
@@ -139,21 +139,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
-    },
-    {
-      "id": "tse-BR087292026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA. • BR-08729/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-14",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.",
-      "registration": "BR-08729/2026",
-      "permitted_release_date": "2026-10-14"
     },
     {
       "id": "official:boe:huw-pill-huw-pill-citi-roundtable-at-imf-bangkok:2026-10-14",
@@ -298,6 +283,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:us.fed_speech.1ea3a0cdd675.2026-10-14",
+      "kind": "economic",
+      "title": "Speech - Vice Chair for Supervision Michelle W. Bowman Supervision and Regulation At the Bangkok Economic Festival 2026",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-15T02:55:00+00:00",
+      "date": "2026-10-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
       "id": "official:us.fed_speech.956b7109a1d5.2026-10-14",
@@ -750,6 +747,18 @@
       "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
+      "id": "official:us.fed_speech.57035497fbe3.2026-10-15",
+      "kind": "economic",
+      "title": "Discussion - Chairman Kevin Warsh Conversation between IMF Managing Director Georgieva and Federal Reserve Chairman Warsh At the Fireside Chat with International Monetary Fund (IMF) Managing Director Kristalina Georgieva, Bangkok, Thailand",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-16T03:30:00+00:00",
+      "date": "2026-10-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
       "id": "official:fgv:ipc-s-2a-quadrissemana:2026-10-16",
       "kind": "economic",
       "title": "IPC-S – 2ª quadrissemana - Out/2026",
@@ -921,6 +930,21 @@
       "permitted_release_date": "2026-10-17"
     },
     {
+      "id": "tse-BR011072026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • VERITA • BR-01107/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-17",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "VERITA",
+      "registration": "BR-01107/2026",
+      "permitted_release_date": "2026-10-17"
+    },
+    {
       "id": "tse-BR088092026",
       "kind": "poll",
       "title": "Pesquisa presidencial • INSTITUTO PHOENIX & ASSOCIADOS • BR-08809/2026 (divulgação permitida)",
@@ -949,6 +973,81 @@
       "institute": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
       "registration": "BR-04332/2026",
       "permitted_release_date": "2026-10-18"
+    },
+    {
+      "id": "tse-BR067152026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • 100 CIDADES • BR-06715/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-19",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "100 CIDADES",
+      "registration": "BR-06715/2026",
+      "permitted_release_date": "2026-10-19"
+    },
+    {
+      "id": "tse-BR024182026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • ATLASINTEL • BR-02418/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-19",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "ATLASINTEL",
+      "registration": "BR-02418/2026",
+      "permitted_release_date": "2026-10-19"
+    },
+    {
+      "id": "tse-BR044542026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • DATATRENDS • BR-04454/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-19",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "DATATRENDS",
+      "registration": "BR-04454/2026",
+      "permitted_release_date": "2026-10-19"
+    },
+    {
+      "id": "tse-BR044992026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • NEXUS • BR-04499/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-19",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "NEXUS",
+      "registration": "BR-04499/2026",
+      "permitted_release_date": "2026-10-19"
+    },
+    {
+      "id": "tse-BR025862026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • PODERDATA • BR-02586/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-19",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "PODERDATA",
+      "registration": "BR-02586/2026",
+      "permitted_release_date": "2026-10-19"
     },
     {
       "id": "official:fgv:igp-10-e-os-componentes-ipa-10-ipc-10-e-incc-10:2026-10-19",
@@ -1129,6 +1228,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
+    },
+    {
+      "id": "official:boe:andrew-bailey-andrew-bailey-fireside-chat-at-omfif-central-bank-indep:2026-10-21",
+      "kind": "economic",
+      "title": "Andrew Bailey: Fireside Chat at OMFIF, ‘Central bank independence in an era of financial instability’, London",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-21T14:00:00+01:00",
+      "date": "2026-10-21",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
       "id": "official:us.eia_petroleum.2026-10-21",
