@@ -987,6 +987,18 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
+      "id": "official:mdic:weekly-trade-balance-window-start:2026-10-26",
+      "kind": "economic",
+      "title": "Início da janela: balança comercial semanal (15h–15h30)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-26T15:00:00-03:00",
+      "date": "2026-10-26",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/informativos/informativo-2026-048"
+    },
+    {
       "id": "official:fgv:incc-m:2026-10-27",
       "kind": "economic",
       "title": "INCC-M - Out/2026",
