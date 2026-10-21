@@ -1,23 +1,23 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-10-15T11:24:15.935859+00:00",
+  "updated_at": "2026-10-21T11:37:24.077410+00:00",
   "coverage_start": "2026-10-19",
   "coverage_end": "2026-11-01",
   "economic_coverage": [],
   "polls": {
     "status": "pending",
-    "coverage_start": "2026-10-20",
+    "coverage_start": "2026-10-21",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-20T11:47:08.975653+00:00",
-    "source_generated_at": "2026-10-19T14:22:04-03:00",
+    "checked_at": "2026-10-21T11:39:04.317685+00:00",
+    "source_generated_at": "2026-10-20T05:46:45-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
     "election_source_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/flavio-bolsonaro-e-lula-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
     "date_meaning": "permitted_release_not_confirmed_publication",
     "unknown_time": true,
-    "unresolved_count": 2
+    "unresolved_count": 1
   },
   "events": [
     {
@@ -79,66 +79,6 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
-    },
-    {
-      "id": "tse-BR008202026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • ALFA INTELIGENCIA • BR-00820/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-20",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "ALFA INTELIGENCIA",
-      "registration": "BR-00820/2026",
-      "permitted_release_date": "2026-10-20"
-    },
-    {
-      "id": "tse-BR078962026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • INSTITUTO FRANCA DE PESQUISA PESQUISA E ASSESSORIA • BR-07896/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-20",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "INSTITUTO FRANCA DE PESQUISA PESQUISA E ASSESSORIA",
-      "registration": "BR-07896/2026",
-      "permitted_release_date": "2026-10-20"
-    },
-    {
-      "id": "tse-BR063962026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • VERITA • BR-06396/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-20",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "VERITA",
-      "registration": "BR-06396/2026",
-      "permitted_release_date": "2026-10-20"
-    },
-    {
-      "id": "tse-BR069572026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA • BR-06957/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-20",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
-      "registration": "BR-06957/2026",
-      "permitted_release_date": "2026-10-20"
     },
     {
       "id": "official:ons:labour-market:2026-10-20",
@@ -210,7 +150,7 @@
       "date": "2026-10-20",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.nar.realtor/press-releases/nar-statistical-news-release-schedule"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "official:boe:megan-greene-megan-greene-speech-at-lse-economics-society-london:2026-10-20",
@@ -346,6 +286,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ons.gov.uk/releases/publicsectorfinancesukseptember2026"
+    },
+    {
+      "id": "official:ons:private-rent-house-prices:2026-10-21",
+      "kind": "economic",
+      "title": "Private rent and house prices, UK: October 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-21T09:30:00+01:00",
+      "date": "2026-10-21",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/privaterentandhousepricesukoctober2026"
     },
     {
       "id": "official:ecb:ecb-piero-cipollone-online-presentation-by-mr-cipollone-at-associazione-bancaria-italiana-s-executiv:2026-10-21",
@@ -939,6 +891,21 @@
       "permitted_release_date": "2026-10-24"
     },
     {
+      "id": "tse-BR028282026",
+      "kind": "poll",
+      "title": "Pesquisa presidencial • PODERDATA • BR-02828/2026 (divulgação permitida)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": null,
+      "date": "2026-10-25",
+      "time_status": "unknown",
+      "importance": "high",
+      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
+      "institute": "PODERDATA",
+      "registration": "BR-02828/2026",
+      "permitted_release_date": "2026-10-25"
+    },
+    {
       "id": "official:fgv:ipc-s-capitais-3a-quadrissemana:2026-10-26",
       "kind": "economic",
       "title": "IPC-S Capitais – 3ª quadrissemana - Out/2026",
@@ -973,6 +940,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
+    },
+    {
+      "id": "official:fgv:indicador-de-expectativa-de-inflacao-dos-consumidores:2026-10-26",
+      "kind": "economic",
+      "title": "Indicador de Expectativa de Inflação dos Consumidores",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-26T11:00:00-03:00",
+      "date": "2026-10-26",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
     },
     {
       "id": "official:us.dallas_manufacturing.2026-10-26",
@@ -1045,6 +1024,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-19&ate=2026-11-01"
+    },
+    {
+      "id": "official:boe:capital-issuance:2026-10-27",
+      "kind": "economic",
+      "title": "Capital Issuance - September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-27T09:30:00+00:00",
+      "date": "2026-10-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/statistics/capital-issuance/2026/september-2026"
     },
     {
       "id": "official:us.durable_goods.2026-10-27",
@@ -1263,6 +1254,18 @@
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20monet%C3%A1rias%20e%20de%20cr%C3%A9dito"
     },
     {
+      "id": "official:boe:effective-interest-rates:2026-10-29",
+      "kind": "economic",
+      "title": "Effective interest rates - September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-29T09:30:00+00:00",
+      "date": "2026-10-29",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/september-2026"
+    },
+    {
       "id": "official:us.gdp.0d46e7c7b12d3c31",
       "kind": "economic",
       "title": "GDP (Advance Estimate), 3rd Quarter 2026",
@@ -1309,6 +1312,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+    },
+    {
+      "id": "official:bcb:openmarket:agendaics94estatisticasdomercadoaberto",
+      "kind": "economic",
+      "title": "Estatísticas do Mercado Aberto",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-29T14:30:00-03:00",
+      "date": "2026-10-29",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20do%20mercado%20aberto"
     },
     {
       "id": "official:ecb:monetary-policy-press-conference:2026-10-29",
@@ -1359,6 +1374,18 @@
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20fiscais"
     },
     {
+      "id": "official:bcb:macro:agendaics25patrimoniofinanceiroliquidodogovernogeral-trimestral",
+      "kind": "economic",
+      "title": "Patrimônio Financeiro Líquido do Governo Geral – trimestral",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-30T08:30:00-03:00",
+      "date": "2026-10-30",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20macroecon%C3%B4micas"
+    },
+    {
       "id": "official:ibge:4316",
       "kind": "economic",
       "title": "Pesquisa Nacional por Amostra de Domicílios Contínua Mensal",
@@ -1369,6 +1396,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-19&ate=2026-11-01"
+    },
+    {
+      "id": "official:bcb:macro:agendaics21matrizdopatrimoniofinanceiro-trimestral",
+      "kind": "economic",
+      "title": "Matriz do Patrimônio Financeiro - trimestral",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-30T10:30:00-03:00",
+      "date": "2026-10-30",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20macroecon%C3%B4micas"
     },
     {
       "id": "official:eurostat:gdp-preliminary:2026-10-30",
