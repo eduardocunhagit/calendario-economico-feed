@@ -1,16 +1,16 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-10-21T11:37:24.077410+00:00",
+  "updated_at": "2026-10-22T11:07:22.589241+00:00",
   "coverage_start": "2026-10-19",
   "coverage_end": "2026-11-01",
   "economic_coverage": [],
   "polls": {
     "status": "pending",
-    "coverage_start": "2026-10-21",
+    "coverage_start": "2026-10-22",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-21T11:39:04.317685+00:00",
-    "source_generated_at": "2026-10-20T05:46:45-03:00",
+    "checked_at": "2026-10-22T11:09:28.897898+00:00",
+    "source_generated_at": "2026-10-21T05:46:42-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
@@ -163,81 +163,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
-    },
-    {
-      "id": "tse-BR066142026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • 100 CIDADES • BR-06614/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-21",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "100 CIDADES",
-      "registration": "BR-06614/2026",
-      "permitted_release_date": "2026-10-21"
-    },
-    {
-      "id": "tse-BR082512026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • BOAS IDEIAS, ESTRATEGIA E INTELIGENCIA DIGITAL. • BR-08251/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-21",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "BOAS IDEIAS, ESTRATEGIA E INTELIGENCIA DIGITAL.",
-      "registration": "BR-08251/2026",
-      "permitted_release_date": "2026-10-21"
-    },
-    {
-      "id": "tse-BR038352026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT • BR-03835/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-21",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT",
-      "registration": "BR-03835/2026",
-      "permitted_release_date": "2026-10-21"
-    },
-    {
-      "id": "tse-BR046122026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • PALVER • BR-04612/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-21",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "PALVER",
-      "registration": "BR-04612/2026",
-      "permitted_release_date": "2026-10-21"
-    },
-    {
-      "id": "tse-BR085352026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA. • BR-08535/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-21",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.",
-      "registration": "BR-08535/2026",
-      "permitted_release_date": "2026-10-21"
     },
     {
       "id": "official:ecb:ecb-philip-r-lane-participation-by-mr-lane-in-panel-at-cf40-euro50-closed-door-luncheon-monetary-sys:2026-10-21",
@@ -456,6 +381,18 @@
       "permitted_release_date": "2026-10-22"
     },
     {
+      "id": "official:us.conference_board_lei.2026-10-22",
+      "kind": "economic",
+      "title": "The Conference Board Leading Economic Index (LEI) for the U.S. — September 2026",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-22T10:00:00-04:00",
+      "date": "2026-10-22",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.conference-board.org/pdf_free/press/US%20LEI%20Technical%20Notes-June%202026.pdf"
+    },
+    {
       "id": "official:us.weekly_economic_index.2026-10-22",
       "kind": "economic",
       "title": "Weekly Economic Index",
@@ -490,6 +427,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://ir.eia.gov/ngs/ngs.html"
+    },
+    {
+      "id": "official:ec:flash-consumer-confidence:2026-10-22",
+      "kind": "economic",
+      "title": "European Commission Flash Consumer Confidence Indicator",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-22T16:00:00+02:00",
+      "date": "2026-10-22",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ec.europa.eu/economy_finance/db_indicators/surveys/documents/calendar/Publication%20dates%202026.pdf"
     },
     {
       "id": "tse-BR084962026",
@@ -601,6 +550,30 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-19&ate=2026-11-01"
+    },
+    {
+      "id": "official:ons:uid:uktradeinservicesbypartnercountryapriltojune2026",
+      "kind": "economic",
+      "title": "UK trade in services by partner country: April to June 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-23T09:30:00+01:00",
+      "date": "2026-10-23",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/uktradeinservicesbypartnercountryapriltojune2026"
+    },
+    {
+      "id": "official:ons:uid:uktradequarterlygoodsandservicesapriltojune2026",
+      "kind": "economic",
+      "title": "UK trade, quarterly goods and services: April to June 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-23T09:30:00+01:00",
+      "date": "2026-10-23",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/uktradequarterlygoodsandservicesapriltojune2026"
     },
     {
       "id": "official:ecb:consumer-expectations:2026-10-23",
@@ -930,6 +903,18 @@
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
     },
     {
+      "id": "official:bcb:external:agendaics92estatisticasdosetorexterno",
+      "kind": "economic",
+      "title": "Estatísticas do setor externo",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-26T08:30:00-03:00",
+      "date": "2026-10-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20do%20setor%20externo"
+    },
+    {
       "id": "official:bcb:focus:agendaics442relatoriofocus",
       "kind": "economic",
       "title": "Relatório Focus",
@@ -1000,18 +985,6 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
-    },
-    {
-      "id": "official:bcb:external:agendaics92estatisticasdosetorexterno",
-      "kind": "economic",
-      "title": "Estatísticas do setor externo",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-27T08:30:00-03:00",
-      "date": "2026-10-27",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20do%20setor%20externo"
     },
     {
       "id": "official:ibge:4315",
@@ -1266,6 +1239,18 @@
       "source_url": "https://www.bankofengland.co.uk/statistics/effective-interest-rates/2026/september-2026"
     },
     {
+      "id": "official:ec:business-consumer-surveys:2026-10-29",
+      "kind": "economic",
+      "title": "European Commission Business and Consumer Survey Results (ESI, EEI, EUI and sectoral confidence)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-29T11:00:00+01:00",
+      "date": "2026-10-29",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ec.europa.eu/economy_finance/db_indicators/surveys/documents/calendar/Publication%20dates%202026.pdf"
+    },
+    {
       "id": "official:us.gdp.0d46e7c7b12d3c31",
       "kind": "economic",
       "title": "GDP (Advance Estimate), 3rd Quarter 2026",
@@ -1312,18 +1297,6 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
-    },
-    {
-      "id": "official:bcb:openmarket:agendaics94estatisticasdomercadoaberto",
-      "kind": "economic",
-      "title": "Estatísticas do Mercado Aberto",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": "2026-10-29T14:30:00-03:00",
-      "date": "2026-10-29",
-      "time_status": "exact",
-      "importance": "low",
-      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20do%20mercado%20aberto"
     },
     {
       "id": "official:ecb:monetary-policy-press-conference:2026-10-29",
@@ -1456,6 +1429,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:bcb:openmarket:agendaics94estatisticasdomercadoaberto",
+      "kind": "economic",
+      "title": "Estatísticas do Mercado Aberto",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-10-30T14:30:00-03:00",
+      "date": "2026-10-30",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20do%20mercado%20aberto"
     },
     {
       "id": "official:cftc:brl:2026-10-30",
