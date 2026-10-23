@@ -1,16 +1,16 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-10-22T11:07:22.589241+00:00",
+  "updated_at": "2026-10-22T11:07:26.244971+00:00",
   "coverage_start": "2026-10-19",
   "coverage_end": "2026-11-01",
   "economic_coverage": [],
   "polls": {
     "status": "pending",
-    "coverage_start": "2026-10-22",
+    "coverage_start": "2026-10-23",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-22T11:09:28.897898+00:00",
-    "source_generated_at": "2026-10-21T05:46:42-03:00",
+    "checked_at": "2026-10-23T11:19:38.444215+00:00",
+    "source_generated_at": "2026-10-22T05:46:42-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
@@ -138,7 +138,7 @@
       "date": "2026-10-20",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "official:us.pending_home_sales.2026-10-20",
@@ -319,66 +319,6 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
-    },
-    {
-      "id": "tse-BR097092026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • DATAFOLHA INSTITUTO DE PESQUISAS LTDA. • BR-09709/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-22",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "DATAFOLHA INSTITUTO DE PESQUISAS LTDA.",
-      "registration": "BR-09709/2026",
-      "permitted_release_date": "2026-10-22"
-    },
-    {
-      "id": "tse-BR093272026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT • BR-09327/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-22",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "GRUPO GERP GERP MERCADO GERP OPINIAO GERPAUDIT",
-      "registration": "BR-09327/2026",
-      "permitted_release_date": "2026-10-22"
-    },
-    {
-      "id": "tse-BR023482026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • INDEXA PESQUISAS • BR-02348/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-22",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "INDEXA PESQUISAS",
-      "registration": "BR-02348/2026",
-      "permitted_release_date": "2026-10-22"
-    },
-    {
-      "id": "tse-BR079262026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • PODERDATA • BR-07926/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-22",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "PODERDATA",
-      "registration": "BR-07926/2026",
-      "permitted_release_date": "2026-10-22"
     },
     {
       "id": "official:us.conference_board_lei.2026-10-22",
@@ -879,6 +819,18 @@
       "permitted_release_date": "2026-10-25"
     },
     {
+      "id": "official:ecb:opening-keynote-speech-by-mr-elderson-at-finance-and-biodiversity-day-at-17th-meeting-of-the-confere:2026-10-26",
+      "kind": "economic",
+      "title": "ECB Frank Elderson: Opening keynote speech by Mr Elderson at Finance and Biodiversity Day at 17th meeting of the Conference of the Parties to the CBD (COP17) in Yerevan, Armenia",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-26T07:00:00+01:00",
+      "date": "2026-10-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:fgv:ipc-s-capitais-3a-quadrissemana:2026-10-26",
       "kind": "economic",
       "title": "IPC-S Capitais – 3ª quadrissemana - Out/2026",
@@ -925,6 +877,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
+    },
+    {
+      "id": "official:ecb:survey-on-the-access-to-finance-of-enterprises-dataset-safe:2026-10-26",
+      "kind": "economic",
+      "title": "ECB: Survey on the access to finance of enterprises (Dataset: SAFE)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-26T10:00:00+01:00",
+      "date": "2026-10-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:fgv:indicador-de-expectativa-de-inflacao-dos-consumidores:2026-10-26",
@@ -1011,6 +975,30 @@
       "source_url": "https://www.bankofengland.co.uk/statistics/capital-issuance/2026/september-2026"
     },
     {
+      "id": "official:ecb:euro-area-bank-lending-survey-dataset-bls:2026-10-27",
+      "kind": "economic",
+      "title": "ECB: Euro area Bank Lending Survey (Dataset: BLS)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-27T10:00:00+01:00",
+      "date": "2026-10-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:monetary-developments-in-the-euro-area-dataset-bsi:2026-10-27",
+      "kind": "economic",
+      "title": "ECB: Monetary developments in the euro area (Dataset: BSI)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-27T10:00:00+01:00",
+      "date": "2026-10-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.durable_goods.2026-10-27",
       "kind": "economic",
       "title": "Advance Durable Goods",
@@ -1020,7 +1008,7 @@
       "date": "2026-10-27",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "official:us.consumer_confidence.2026-10-27",
@@ -1044,7 +1032,7 @@
       "date": "2026-10-27",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "official:us.richmond_manufacturing.2026-10-27",
@@ -1105,6 +1093,30 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.bankofcanada.ca/press/upcoming-events/"
+    },
+    {
+      "id": "official:ecb:euro-area-quarterly-balance-of-payments-and-international-investment-position-dataset-bps:2026-10-28",
+      "kind": "economic",
+      "title": "ECB: Euro area quarterly balance of payments and international investment position (Dataset: BPS)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-28T10:00:00+01:00",
+      "date": "2026-10-28",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:euro-area-economic-and-financial-developments-by-institutional-sector-dataset-qsa:2026-10-28",
+      "kind": "economic",
+      "title": "ECB: Euro area economic and financial developments by institutional sector (Dataset: QSA)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-28T11:00:00+01:00",
+      "date": "2026-10-28",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.advance_economic_indicators.2026-10-28",
@@ -1227,6 +1239,18 @@
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20monet%C3%A1rias%20e%20de%20cr%C3%A9dito"
     },
     {
+      "id": "official:boe:money-credit:2026-10-29",
+      "kind": "economic",
+      "title": "BoE: Money and Credit - September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-10-29T09:30:00+00:00",
+      "date": "2026-10-29",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:boe:effective-interest-rates:2026-10-29",
       "kind": "economic",
       "title": "Effective interest rates - September 2026",
@@ -1299,6 +1323,18 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
     },
     {
+      "id": "official:us.eia_natural_gas.2026-10-29",
+      "kind": "economic",
+      "title": "EIA Weekly Natural Gas Storage",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-10-29T14:30:00+00:00",
+      "date": "2026-10-29",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ir.eia.gov/ngs/ngs.html"
+    },
+    {
       "id": "official:ecb:monetary-policy-press-conference:2026-10-29",
       "kind": "economic",
       "title": "ECB Monetary Policy Press Conference",
@@ -1321,6 +1357,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:ecb:remarks-by-mr-cipollone-at-event-titled-one-year-to-t-1-organised-by-the-eu-t-1-industry-committee-i:2026-10-29",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Remarks by Mr Cipollone at event titled 'One year to T+1' organised by the EU T+1 Industry Committee in Frankfurt am Main, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-29T16:50:00+01:00",
+      "date": "2026-10-29",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:fgv:indicador-de-incerteza-da-economia-brasil-iie-br:2026-10-30",
@@ -1369,6 +1417,30 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-10-19&ate=2026-11-01"
+    },
+    {
+      "id": "official:ecb:ecb-survey-of-monetary-analysts-october-2026-aggregate-results:2026-10-30",
+      "kind": "economic",
+      "title": "ECB: ECB Survey of Monetary Analysts, October 2026, Aggregate Results",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-30T10:00:00+01:00",
+      "date": "2026-10-30",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:ecb-survey-of-professional-forecasters:2026-10-30",
+      "kind": "economic",
+      "title": "ECB: ECB Survey of Professional Forecasters",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-30T10:00:00+01:00",
+      "date": "2026-10-30",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:bcb:macro:agendaics21matrizdopatrimoniofinanceiro-trimestral",
@@ -1501,6 +1573,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
+    },
+    {
+      "id": "official:ecb:keynote-speech-by-mr-lane-at-research-symposium-on-ai-and-the-economy-organised-by-federal-reserve-b:2026-10-30",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Keynote speech by Mr Lane at Research Symposium on AI and the Economy organised by Federal Reserve Bank of San Francisco in San Francisco, US",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-30T17:10:00+01:00",
+      "date": "2026-10-30",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     }
   ]
 }
