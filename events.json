@@ -7,10 +7,10 @@
   "economic_coverage": [],
   "polls": {
     "status": "pending",
-    "coverage_start": "2026-10-23",
+    "coverage_start": "2026-10-24",
     "coverage_end": "2026-10-25",
-    "checked_at": "2026-10-23T11:19:38.444215+00:00",
-    "source_generated_at": "2026-10-22T05:46:42-03:00",
+    "checked_at": "2026-10-24T11:40:28.788730+00:00",
+    "source_generated_at": "2026-10-23T05:46:44-03:00",
     "active_until": "2026-10-25",
     "first_round": "2026-10-04",
     "runoff_conditional": false,
@@ -381,81 +381,6 @@
       "source_url": "https://ec.europa.eu/economy_finance/db_indicators/surveys/documents/calendar/Publication%20dates%202026.pdf"
     },
     {
-      "id": "tse-BR084962026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • ALFA INTELIGENCIA • BR-08496/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-23",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "ALFA INTELIGENCIA",
-      "registration": "BR-08496/2026",
-      "permitted_release_date": "2026-10-23"
-    },
-    {
-      "id": "tse-BR033652026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • DATATRENDS • BR-03365/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-23",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "DATATRENDS",
-      "registration": "BR-03365/2026",
-      "permitted_release_date": "2026-10-23"
-    },
-    {
-      "id": "tse-BR032592026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA • BR-03259/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-23",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
-      "registration": "BR-03259/2026",
-      "permitted_release_date": "2026-10-23"
-    },
-    {
-      "id": "tse-BR043502026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • IPESPE INST DE PESQUISAS SOCIAIS POLITICAS E ECONOMICAS • BR-04350/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-23",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "IPESPE INST DE PESQUISAS SOCIAIS POLITICAS E ECONOMICAS",
-      "registration": "BR-04350/2026",
-      "permitted_release_date": "2026-10-23"
-    },
-    {
-      "id": "tse-BR060702026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • VERITA • BR-06070/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-23",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "VERITA",
-      "registration": "BR-06070/2026",
-      "permitted_release_date": "2026-10-23"
-    },
-    {
       "id": "official:ons:retail-sales:2026-10-23",
       "kind": "economic",
       "title": "Retail sales, Great Britain: September 2026",
@@ -561,7 +486,7 @@
       "date": "2026-10-23",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.sca.isr.umich.edu/"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
       "id": "official:cftc:brl:2026-10-23",
@@ -699,21 +624,6 @@
       "permitted_release_date": "2026-10-24"
     },
     {
-      "id": "tse-BR061732026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • INSTITUTO PHOENIX & ASSOCIADOS • BR-06173/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-24",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "INSTITUTO PHOENIX & ASSOCIADOS",
-      "registration": "BR-06173/2026",
-      "permitted_release_date": "2026-10-24"
-    },
-    {
       "id": "tse-BR021362026",
       "kind": "poll",
       "title": "Pesquisa presidencial • MDA-PESQUISA DE OPINIAO PUBLICA E CONSULT. ESTATIST. LTDA - EPP • BR-02136/2026 (divulgação permitida)",
@@ -786,21 +696,6 @@
       "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
       "institute": "SIMPLEX CONSULTORIA ECONOMICA E EMPRESARIAL",
       "registration": "BR-01823/2026",
-      "permitted_release_date": "2026-10-24"
-    },
-    {
-      "id": "tse-BR031812026",
-      "kind": "poll",
-      "title": "Pesquisa presidencial • VERITA • BR-03181/2026 (divulgação permitida)",
-      "country": "Brasil",
-      "currency": "BRL",
-      "starts_at": null,
-      "date": "2026-10-24",
-      "time_status": "unknown",
-      "importance": "high",
-      "source_url": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026",
-      "institute": "VERITA",
-      "registration": "BR-03181/2026",
       "permitted_release_date": "2026-10-24"
     },
     {
