@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-10-26T11:09:01.945770+00:00",
+  "updated_at": "2026-10-26T11:09:05.981859+00:00",
   "coverage_start": "2026-10-26",
   "coverage_end": "2026-11-08",
   "economic_coverage": [],
@@ -630,7 +630,7 @@
       "date": "2026-10-29",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.eia_natural_gas.2026-10-29",
@@ -654,7 +654,7 @@
       "date": "2026-10-29",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.weekly_economic_index.2026-10-29",
@@ -1315,6 +1315,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:boe:huw-pill-national-mpc-agency-briefing:2026-11-06",
+      "kind": "economic",
+      "title": "BoE Huw Pill and Fergal Shortall: National MPC Agency briefing",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-06T12:15:00+00:00",
+      "date": "2026-11-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
       "id": "official:us.employment.47e362e4de994e45",
