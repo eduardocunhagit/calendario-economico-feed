@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Sao_Paulo",
-  "updated_at": "2026-10-26T11:09:07.450846+00:00",
+  "updated_at": "2026-10-26T11:10:03.215152+00:00",
   "coverage_start": "2026-10-26",
   "coverage_end": "2026-11-08",
   "economic_coverage": [],
@@ -849,6 +849,18 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:ecb:economic-bulletin-pre-release-main-findings-from-the-ecb-s-recent-contacts-with-non-financial-companies:2026-10-30",
+      "kind": "economic",
+      "title": "ECB: Economic Bulletin pre-release: Main findings from the ECB's recent contacts with non-financial companies",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-10-30T10:00:00+01:00",
+      "date": "2026-10-30",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:eurostat:gdp-preliminary:2026-10-30",
       "kind": "economic",
       "title": "Preliminary flash estimate GDP - EU and euro area",
@@ -981,6 +993,66 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:ecb:euro-area-bank-interest-rate-statistics-dataset-mir:2026-11-02",
+      "kind": "economic",
+      "title": "ECB: Euro area bank interest rate statistics (Dataset: MIR)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-02T10:00:00+01:00",
+      "date": "2026-11-02",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:publication-of-the-ecb-survey-of-monetary-analysts-november-2026-aggregate-results:2026-11-02",
+      "kind": "economic",
+      "title": "ECB: Publication of the ECB Survey of Monetary Analysts November 2026 aggregate results",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-02T10:00:00+01:00",
+      "date": "2026-11-02",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:target-balances-statistics-dataset-tgb:2026-11-02",
+      "kind": "economic",
+      "title": "ECB: TARGET balances statistics (Dataset: TGB)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-02T10:00:00+01:00",
+      "date": "2026-11-02",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:speech-by-mr-vujcic-at-central-bank-of-ireland-financial-system-conference-2026-at-the-heart-of-europe-in-dubl:2026-11-02",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Speech by Mr Vujčić at Central Bank of Ireland Financial System Conference 2026 \"At the heart of Europe\" in Dublin, Ireland",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-02T10:45:00+01:00",
+      "date": "2026-11-02",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:fireside-chat-by-mr-vujcic-at-central-bank-of-ireland-financial-system-conference-2026-at-the-heart-of-europe-:2026-11-02",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Fireside chat by Mr Vujčić at Central Bank of Ireland Financial System Conference 2026 \"At the heart of Europe\" in Dublin, Ireland",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-02T11:00:00+01:00",
+      "date": "2026-11-02",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.construction_spending.2026-11-02",
       "kind": "economic",
       "title": "Construction Spending (Construction Put in Place)",
@@ -1015,6 +1087,30 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
+    },
+    {
+      "id": "official:ecb:keynote-speech-by-mr-machado-at-12th-banking-union-conference-the-simplification-of-banking-regulation-and-sup:2026-11-03",
+      "kind": "economic",
+      "title": "ECB Pedro Machado: Keynote speech by Mr Machado at 12th Banking Union Conference \"The Simplification of Banking Regulation and Supervision\" organised by Freshfields, Center for Financial Studies and Institute for Law and Finance in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-03T09:45:00+01:00",
+      "date": "2026-11-03",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-machado-in-fireside-chat-at-12th-banking-union-conference-the-simplification-of-banking-re:2026-11-03",
+      "kind": "economic",
+      "title": "ECB Pedro Machado: Participation by Mr Machado in fireside chat at 12th Banking Union Conference \"The Simplification of Banking Regulation and Supervision\" organised by Freshfields, Center for Financial Studies and Institute for Law and Finance in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-03T10:15:00+01:00",
+      "date": "2026-11-03",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:rba:rate-decision:2026-11-03",
@@ -1053,6 +1149,54 @@
       "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
     },
     {
+      "id": "official:ecb:participation-by-ms-donnery-in-panel-balancing-stability-and-innovation-at-2026-santander-international-bankin:2026-11-03",
+      "kind": "economic",
+      "title": "ECB Sharon Donnery: Participation by Ms Donnery in Panel: \"Balancing Stability and Innovation\" at 2026 Santander International Banking Conference \"Powering Growth, Building resilience\" in Madrid, Spain",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-03T15:00:00+01:00",
+      "date": "2026-11-03",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:consolidated-financial-statement-of-the-eurosystem:2026-11-03",
+      "kind": "economic",
+      "title": "ECB: Consolidated Financial Statement of the Eurosystem",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-03T15:00:00+01:00",
+      "date": "2026-11-03",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:monthly-app-and-pepp-update:2026-11-03",
+      "kind": "economic",
+      "title": "ECB: Monthly APP and PEPP update",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-03T15:00:00+01:00",
+      "date": "2026-11-03",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:weekly-app-and-pepp-update:2026-11-03",
+      "kind": "economic",
+      "title": "ECB: Weekly APP and PEPP update",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-03T15:00:00+01:00",
+      "date": "2026-11-03",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.adp_monthly.2026-11-04",
       "kind": "economic",
       "title": "ADP National Employment Report — October 2026",
@@ -1087,6 +1231,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.riksbank.se/en-gb/press-and-published/calendar/calendar-2026/2026-11-04/"
+    },
+    {
+      "id": "official:ecb:ecb-wage-tracker-dataset-ewt:2026-11-04",
+      "kind": "economic",
+      "title": "ECB: ECB Wage Tracker (Dataset: EWT)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-04T10:00:00+01:00",
+      "date": "2026-11-04",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:eurostat:hicp-flash:2026-11-04",
@@ -1137,6 +1293,18 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
+      "id": "official:ecb:euro-area-seasonally-adjusted-hicp-flash-estimate-dataset-hicp:2026-11-04",
+      "kind": "economic",
+      "title": "ECB: Euro area seasonally adjusted HICP flash estimate (Dataset: HICP)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-04T15:00:00+01:00",
+      "date": "2026-11-04",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.eia_petroleum.2026-11-04",
       "kind": "economic",
       "title": "EIA Weekly Petroleum Status Report (Crude Oil Inventories)",
@@ -1147,6 +1315,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
+    },
+    {
+      "id": "official:ecb:keynote-speech-by-mr-cipollone-at-8th-international-conference-of-regional-card-schemes-and-retail-financial-i:2026-11-05",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Keynote speech by Mr Cipollone at 8th International Conference of Regional Card Schemes and Retail Financial Infrastructure in Tirana, Albania",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-05T08:30:00+01:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.chicago_labor_market.2026-11-05",
@@ -1173,6 +1353,30 @@
       "source_url": "https://www.ibge.gov.br/estatisticas/economicas/industria/9296-pesquisa-industrial-mensal-producao-fisica-regional.html"
     },
     {
+      "id": "official:ecb:opening-remarks-by-ms-schnabel-at-european-central-bank-money-markets-conference-2026-in-frankfurt-germany:2026-11-05",
+      "kind": "economic",
+      "title": "ECB Isabel Schnabel: Opening remarks by Ms Schnabel at European Central Bank Money Markets Conference 2026 in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-05T09:05:00+01:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:keynote-speech-by-ms-tuominen-on-rahanpesun-estaminen-miten-valvonta-vastaa-taman-paivan-haasteisiin-at-amlr-r:2026-11-05",
+      "kind": "economic",
+      "title": "ECB Anneli Tuominen: Keynote speech by Ms Tuominen on \"Rahanpesun estäminen -miten valvonta vastaa tämän päivän haasteisiin\" at AMLR Readiness 2027 event in Helsinki, Finland",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-05T09:25:00+01:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:ons:business-insights:2026-11-05",
       "kind": "economic",
       "title": "Business insights and impact on the UK economy: 5 November 2026",
@@ -1195,6 +1399,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators5november2026"
+    },
+    {
+      "id": "official:ecb:harmonised-competitiveness-indicators-dataset-exr:2026-11-05",
+      "kind": "economic",
+      "title": "ECB: Harmonised Competitiveness Indicators (Dataset: EXR)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-05T10:00:00+01:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:norges:rate-decision:2026-11-05",
@@ -1254,7 +1470,7 @@
       "date": "2026-11-05",
       "time_status": "exact",
       "importance": "high",
-      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
     },
     {
       "id": "official:banxico:rate-decision:2026-11-05",
@@ -1305,6 +1521,18 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
+      "id": "official:us.eia_natural_gas.2026-11-05",
+      "kind": "economic",
+      "title": "EIA Weekly Natural Gas Storage",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-05T15:30:00+00:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ir.eia.gov/ngs/ngs.html"
+    },
+    {
       "id": "official:us.weekly_economic_index.2026-11-05",
       "kind": "economic",
       "title": "Weekly Economic Index",
@@ -1315,6 +1543,30 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-lane-in-panel-should-the-snb-and-other-central-banks-rethink-how-they-interact-with-the-pu:2026-11-05",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Participation by Mr. Lane in panel \"Should the SNB and other central banks rethink how they interact with the public and the government?\" at 2026 SNB and Its Watchers Conference in Zurich, Switzerland",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-05T16:40:00+01:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-by-ms-lagarde-in-new-dialogues-for-the-future-organised-by-osservatorio-for-independent-thinking:2026-11-05",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: Participation by Ms Lagarde in \"New Dialogues for the Future\" organised by Osservatorio for independent thinking in Milan, Italy.",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-05T17:00:00+01:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.chicago_carts.2026-11-06",
@@ -1339,6 +1591,42 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ons.gov.uk/releases/publicserviceproductivityquarterlyukapriltojune2026"
+    },
+    {
+      "id": "official:ecb:consolidated-banking-data-statistics-dataset-cbd2:2026-11-06",
+      "kind": "economic",
+      "title": "ECB: Consolidated Banking Data Statistics (Dataset: CBD2)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-06T10:00:00+01:00",
+      "date": "2026-11-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:keynote-address-by-ms-donnery-at-13th-annual-iif-colloquium-on-european-banking-regulation-supervision-in-fran:2026-11-06",
+      "kind": "economic",
+      "title": "ECB Sharon Donnery: Keynote address by Ms Donnery at 13th Annual IIF Colloquium on European Banking Regulation & Supervision in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-06T10:10:00+01:00",
+      "date": "2026-11-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-in-fireside-chat-by-mr-lane-at-european-central-bank-money-markets-conference-2026-in-frankfurt-:2026-11-06",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Participation in fireside chat by Mr Lane at European Central Bank Money Markets Conference 2026 in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-06T10:30:00+01:00",
+      "date": "2026-11-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:eurostat:retail-trade:2026-11-06",
@@ -1435,6 +1723,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
+      "id": "official:us.fed_speech.d29bc331459f.2026-11-06",
+      "kind": "economic",
+      "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman Supervision and Regulation At the University of Mississippi Banking and Finance Symposium, Oxford, Miss.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-06T17:15:00+00:00",
+      "date": "2026-11-06",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
       "id": "official:us.nyfed_staff_nowcast.2026-11-06",
