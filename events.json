@@ -1053,6 +1053,18 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:ecb:publication-of-research-bulletin:2026-11-02",
+      "kind": "economic",
+      "title": "ECB : Publication of Research Bulletin",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-02T12:00:00+01:00",
+      "date": "2026-11-02",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.construction_spending.2026-11-02",
       "kind": "economic",
       "title": "Construction Spending (Construction Put in Place)",
@@ -1267,6 +1279,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
+    },
+    {
+      "id": "official:ecb:laudation-by-mr-lane-on-the-occasion-of-the-conferral-of-bernhard-harms-prize-to-pierre-olivier-gourinchas-at-:2026-11-04",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Laudation by Mr Lane on the occasion of the conferral of Bernhard Harms Prize to Pierre-Olivier Gourinchas at 5th Kiel-CEPR Geoeconomics Conference in Berlin, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-04T14:20:00+01:00",
+      "date": "2026-11-04",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:bcb:indeco:agendaics195indicadoreseconomicosselecionados-indeco",
