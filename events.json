@@ -1125,6 +1125,18 @@
       "source_url": "https://www.ons.gov.uk/releases/uktradeseptember2026"
     },
     {
+      "id": "official:us.chicago_nfci.2026-11-12",
+      "kind": "economic",
+      "title": "Chicago Fed National Financial Conditions Index (NFCI) — November 6, 2026",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-12T08:30:00-05:00",
+      "date": "2026-11-12",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.chicagofed.org/research/data/data-release-calendar"
+    },
+    {
       "id": "official:ibge-product:9270:2026-11-12",
       "kind": "economic",
       "title": "Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil",
