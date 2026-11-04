@@ -441,6 +441,18 @@
       "source_url": "https://www.chicagofed.org/research/data/data-release-calendar"
     },
     {
+      "id": "official:ecb:opening-remarks-by-ms-schnabel-at-european-central-bank-money-markets-conference-2026-in-frankfurt-germany:2026-11-05",
+      "kind": "economic",
+      "title": "ECB Isabel Schnabel: Opening remarks by Ms Schnabel at European Central Bank Money Markets Conference 2026 in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-05T09:00:00+01:00",
+      "date": "2026-11-05",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:ibge-product:9294:2026-11-05",
       "kind": "economic",
       "title": "Pesquisa Industrial Mensal: Produção Física - Brasil",
@@ -451,18 +463,6 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://www.ibge.gov.br/estatisticas/economicas/industria/9296-pesquisa-industrial-mensal-producao-fisica-regional.html"
-    },
-    {
-      "id": "official:ecb:opening-remarks-by-ms-schnabel-at-european-central-bank-money-markets-conference-2026-in-frankfurt-germany:2026-11-05",
-      "kind": "economic",
-      "title": "ECB Isabel Schnabel: Opening remarks by Ms Schnabel at European Central Bank Money Markets Conference 2026 in Frankfurt, Germany",
-      "country": "Eurozona",
-      "currency": "EUR",
-      "starts_at": "2026-11-05T09:05:00+01:00",
-      "date": "2026-11-05",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:ecb:keynote-speech-by-ms-tuominen-on-rahanpesun-estaminen-miten-valvonta-vastaa-taman-paivan-haasteisiin-at-amlr-r:2026-11-05",
