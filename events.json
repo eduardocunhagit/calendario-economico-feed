@@ -897,6 +897,18 @@
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
     },
     {
+      "id": "official:us.wholesale_trade.2026-11-09",
+      "kind": "economic",
+      "title": "Monthly Wholesale Trade: Sales and Inventories",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-09T10:00:00-05:00",
+      "date": "2026-11-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    },
+    {
       "id": "official:eurostat:services-production:2026-11-09",
       "kind": "economic",
       "title": "Services production",
@@ -1185,6 +1197,18 @@
       "source_url": "https://www.ons.gov.uk/releases/businessinvestmentintheukjulytoseptember2026provisionalresults"
     },
     {
+      "id": "official:us.weekly_economic_index.2026-11-12",
+      "kind": "economic",
+      "title": "Weekly Economic Index",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-12T11:30:00-05:00",
+      "date": "2026-11-12",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
+    },
+    {
       "id": "official:us.jobless_claims.2026-11-12",
       "kind": "economic",
       "title": "Initial Claims",
@@ -1303,6 +1327,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-do-ciclo-economico_vf-1.pdf"
+    },
+    {
+      "id": "official:us.nyfed_staff_nowcast.2026-11-13",
+      "kind": "economic",
+      "title": "New York Fed Staff Nowcast",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-13T12:45:00-05:00",
+      "date": "2026-11-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
       "id": "official:us.ppi.68799b8c1c71601f",
