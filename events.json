@@ -897,6 +897,18 @@
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
     },
     {
+      "id": "official:ecb:economic-bulletin-pre-release-from-recognition-to-integration-the-ecbs-progress-on-climate-and-nature-related-:2026-11-09",
+      "kind": "economic",
+      "title": "ECB: Economic Bulletin pre-release: From recognition to integration - the ECB’s progress on climate and nature-related risks and the role of the ECB climate change centre",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-09T10:00:00+01:00",
+      "date": "2026-11-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.wholesale_trade.2026-11-09",
       "kind": "economic",
       "title": "Monthly Wholesale Trade: Sales and Inventories",
@@ -919,6 +931,42 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:ecb:participation-by-ms-buch-in-eurogroup-meeting-in-brussels-belgium:2026-11-09",
+      "kind": "economic",
+      "title": "ECB Claudia Buch: Participation by Ms Buch in Eurogroup meeting in Brussels, Belgium",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-09T12:00:00+01:00",
+      "date": "2026-11-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:us.fed_speech.1fd1d233916d.2026-11-09",
+      "kind": "economic",
+      "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman Community Banking At the Mutual Board Summit Conference, Boston, Mass.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-09T13:40:00+00:00",
+      "date": "2026-11-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:ecb:economic-bulletin-pre-release-extreme-summer-weather-what-does-it-mean-for-euro-area-construction-output:2026-11-09",
+      "kind": "economic",
+      "title": "ECB: Economic Bulletin pre-release: Extreme summer weather - what does it mean for euro area construction output?",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-09T14:00:00+01:00",
+      "date": "2026-11-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.nyfed_consumer_expectations.2026-11-09",
@@ -955,6 +1003,30 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:us.fed_speech.0c87723e28cc.2026-11-10",
+      "kind": "economic",
+      "title": "Speech - Governor Christopher J. Waller Economic Outlook At The Bank of England and its Watchers Conference 2026, London, United Kingdom",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-10T09:00:00+00:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:ecb:economic-bulletin-pre-release-industrial-policy-in-the-eu-new-opportunities-old-risks:2026-11-10",
+      "kind": "economic",
+      "title": "ECB: Economic Bulletin pre-release: Industrial policy in the EU - new opportunities, old risks?",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-10T10:00:00+01:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.wasde.2026-11-10",
@@ -1005,6 +1077,66 @@
       "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
     },
     {
+      "id": "official:ecb:economic-bulletin-pre-release-bank-competitiveness-and-its-role-for-monetary-policy:2026-11-10",
+      "kind": "economic",
+      "title": "ECB: Economic Bulletin pre-release: Bank competitiveness and its role for monetary policy",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-10T14:00:00+01:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:introductory-statement-by-mr-cipollone-at-hearing-on-the-digital-euro-before-the-committee-on-economic-and-mon:2026-11-10",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Introductory statement by Mr Cipollone at Hearing on the digital euro before the Committee on Economic and Monetary Affairs (ECON) of the European Parliament in Brussels, Belgium",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-10T15:00:00+01:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:consolidated-financial-statement-of-the-eurosystem:2026-11-10",
+      "kind": "economic",
+      "title": "ECB: Consolidated Financial Statement of the Eurosystem",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-10T15:00:00+01:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:weekly-app-and-pepp-update:2026-11-10",
+      "kind": "economic",
+      "title": "ECB: Weekly APP and PEPP update",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-10T15:00:00+01:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:keynote-speech-by-mr-lane-at-the-bank-of-england-and-its-watchers-conference-in-london-united-kingdom:2026-11-10",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Keynote speech by Mr Lane at The Bank of England and Its Watchers Conference in London, United Kingdom",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-10T17:45:00+01:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:boe:huw-pill-international-monetary-research:2026-11-10",
       "kind": "economic",
       "title": "Huw Pill: Speech at the Institute of International Monetary Research, London",
@@ -1015,6 +1147,42 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:us.fed_speech.ca33ab56d687.2026-11-10",
+      "kind": "economic",
+      "title": "Speech - Vice Chair for Supervision Michelle W. Bowman Economic Outlook At the C. Peter McColough Series on International Economics with Michelle Bowman, Washington, D.C.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-10T20:30:00+00:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:us.fed_speech.c89bae0b1a74.2026-11-10",
+      "kind": "economic",
+      "title": "Speech - Vice Chair for Supervision Michelle W. Bowman Economic Outlook At A View from the Federal Reserve Board (virtual)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-10T23:30:00+00:00",
+      "date": "2026-11-10",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:ecb:virtual-participation-by-mr-cipollone-in-a-digital-euro-roundtable-as-part-of-a-policy-breakfast-organised-by-:2026-11-11",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Virtual participation by Mr Cipollone in a digital euro roundtable as part of a policy breakfast organised by the Institute for Competitiveness at the European Parliament",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-11T08:50:00+01:00",
+      "date": "2026-11-11",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:ibge-product:9296:2026-11-11",
@@ -1041,6 +1209,54 @@
       "source_url": "https://www.ibge.gov.br/estatisticas/economicas/servicos/9229-pesquisa-mensal-de-servicos.html"
     },
     {
+      "id": "official:ecb:economic-bulletin-pre-release-the-role-of-refining-margins-for-hicp-energy-inflation:2026-11-11",
+      "kind": "economic",
+      "title": "ECB: Economic Bulletin pre-release: The role of refining margins for HICP energy inflation",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-11T10:00:00+01:00",
+      "date": "2026-11-11",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:long-term-interest-rates-statistics-dataset-irs:2026-11-11",
+      "kind": "economic",
+      "title": "ECB: Long term interest rates statistics (Dataset: IRS)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-11T10:00:00+01:00",
+      "date": "2026-11-11",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-by-ms-lagarde-in-panel-at-9th-paris-peace-forum-in-paris-france:2026-11-11",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: Participation by Ms Lagarde in panel at 9th Paris Peace Forum in Paris, France",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-11T10:45:00+01:00",
+      "date": "2026-11-11",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:publication-of-supervision-newsletter:2026-11-11",
+      "kind": "economic",
+      "title": "ECB: Publication of Supervision Newsletter",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-11T11:00:00+01:00",
+      "date": "2026-11-11",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:fgv:igp-m-1-dec:2026-11-11",
       "kind": "economic",
       "title": "IGP-M 1 dec",
@@ -1051,6 +1267,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
+    },
+    {
+      "id": "official:ecb:economic-bulletin-pre-release-who-holds-stablecoins-new-evidence-on-euro-area-consumer-holdings:2026-11-11",
+      "kind": "economic",
+      "title": "ECB: Economic Bulletin pre-release: Who holds stablecoins? New evidence on euro area consumer holdings",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-11T14:00:00+01:00",
+      "date": "2026-11-11",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:bcb:indeco:agendaics196indicadoreseconomicosselecionados-indeco",
@@ -1233,6 +1461,30 @@
       "source_url": "https://www.nar.realtor/press-releases/nar-statistical-news-release-schedule"
     },
     {
+      "id": "official:us.fed_speech.35ec6f3e0ff6.2026-11-12",
+      "kind": "economic",
+      "title": "Speech - Governor Michael S. Barr Artificial Intelligence and Inequality At A Conversation with Michael S. Barr (virtual)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-12T15:00:00+00:00",
+      "date": "2026-11-12",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-vujcic-in-panel-at-launch-event-on-imf-regional-economic-outlook-for-europe-choosing-growt:2026-11-12",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Participation by Mr Vujčić in panel at launch event on IMF Regional Economic Outlook for Europe \"Choosing Growth\" organised by IMF and ECB in Brussels, Belgium",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-12T16:30:00+01:00",
+      "date": "2026-11-12",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.eia_petroleum.2026-11-12",
       "kind": "economic",
       "title": "EIA Weekly Petroleum Status Report (Crude Oil Inventories)",
@@ -1243,6 +1495,30 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
+    },
+    {
+      "id": "official:ecb:on-stage-conversation-between-ms-lagarde-and-timothy-geithner-at-50th-anniversary-gala-of-the-french-american-:2026-11-12",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: On-stage conversation between Ms Lagarde and Timothy Geithner at 50th anniversary gala of the French-American Foundation in Paris, France",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-12T20:30:00+01:00",
+      "date": "2026-11-12",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-elderson-in-panel-discussion-at-central-bank-of-turkiye-conference-during-cop31-in-antalya:2026-11-13",
+      "kind": "economic",
+      "title": "ECB Frank Elderson: Participation by Mr Elderson in panel discussion at Central Bank of Türkiye Conference during COP31 in Antalya, Turkey",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-13T07:50:00+01:00",
+      "date": "2026-11-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:fgv:icomex:2026-11-13",
@@ -1269,6 +1545,18 @@
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
     },
     {
+      "id": "official:ecb:keynote-speech-and-participation-in-a-panel-discussion-by-ms-schnabel-at-lietuvos-bankas-annual-economics-conf:2026-11-13",
+      "kind": "economic",
+      "title": "ECB Isabel Schnabel: Keynote speech and participation in a panel discussion by Ms Schnabel at Lietuvos bankas Annual Economics Conference in Vilnius, Lithuania",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-13T08:10:00+01:00",
+      "date": "2026-11-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:ibge-product:9201:2026-11-13",
       "kind": "economic",
       "title": "Levantamento Sistemático da Produção Agrícola",
@@ -1291,6 +1579,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://www.ibge.gov.br/estatisticas/economicas/comercio/9227-pesquisa-mensal-de-comercio.html"
+    },
+    {
+      "id": "official:ecb:securities-issues-statistics-dataset-csec:2026-11-13",
+      "kind": "economic",
+      "title": "ECB: Securities issues statistics (Dataset: CSEC)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-13T10:00:00+01:00",
+      "date": "2026-11-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:eurostat:gdp-employment-flash:2026-11-13",
@@ -1351,6 +1651,42 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
+    },
+    {
+      "id": "official:us.eia_natural_gas.2026-11-13",
+      "kind": "economic",
+      "title": "EIA Weekly Natural Gas Storage",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-13T15:30:00+00:00",
+      "date": "2026-11-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ir.eia.gov/ngs/ngs.html"
+    },
+    {
+      "id": "official:us.fed_speech.d7ab68d6c578.2026-11-13",
+      "kind": "economic",
+      "title": "Discussion - Vice Chair for Supervision Michelle W. Bowman Supervision and Regulation At the Connecticut Bankers Association Annual Meeting and Conference 2026 (virtual)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-13T15:50:00+00:00",
+      "date": "2026-11-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:us.fed_speech.22649f20dbbb.2026-11-13",
+      "kind": "economic",
+      "title": "Speech - Vice Chair Philip N. Jefferson New Technology, Old Questions: Assessing Productivity Puzzles and Their Implications for Macroeconomic Activity At the University of California San Diego Economics Roundtable, La Jolla, Calif.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-14T00:00:00+00:00",
+      "date": "2026-11-13",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     }
   ]
 }
