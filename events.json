@@ -710,7 +710,7 @@
       "title": "ECB Isabel Schnabel: Keynote speech and participation in a panel discussion by Ms Schnabel at Lietuvos bankas Annual Economics Conference in Vilnius, Lithuania",
       "country": "Eurozona",
       "currency": "EUR",
-      "starts_at": "2026-11-13T08:10:00+01:00",
+      "starts_at": "2026-11-13T08:20:00+01:00",
       "date": "2026-11-13",
       "time_status": "exact",
       "importance": "medium",
@@ -909,6 +909,66 @@
       "source_url": "https://www.chicagofed.org/research/data/data-release-calendar"
     },
     {
+      "id": "official:ecb:virtual-opening-speech-by-mr-vuj-i-at-29th-euro-finance-week-in-frankfurt-germany:2026-11-16",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Virtual opening speech by Mr Vujčić at 29th Euro Finance Week in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-16T09:15:00+01:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:us.fed_speech.8004d86f77cd.2026-11-16",
+      "kind": "economic",
+      "title": "Speech - Governor Michael S. Barr Artificial Intelligence and Financial Stability At the 7th ACM International Conference on AI in Finance, Milan, Italy",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-16T10:00:00+00:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:ecb:euro-area-financial-vehicle-corporations-statistics-dataset-fvc:2026-11-16",
+      "kind": "economic",
+      "title": "ECB: Euro area financial vehicle corporations statistics (Dataset: FVC)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-16T10:00:00+01:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:euro-area-investment-fund-statistics-dataset-ivf:2026-11-16",
+      "kind": "economic",
+      "title": "ECB: Euro area investment fund statistics (Dataset: IVF)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-16T10:00:00+01:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:financial-stability-review-pre-release-decoding-the-cyber-ai-nexus:2026-11-16",
+      "kind": "economic",
+      "title": "ECB: Financial Stability Review pre-release: Decoding the cyber-AI nexus",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-16T10:00:00+01:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:eurostat:industrial-production:2026-11-16",
       "kind": "economic",
       "title": "Industrial production",
@@ -919,6 +979,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://ec.europa.eu/eurostat/o/calendars/eventsIcal?theme=0&category=2"
+    },
+    {
+      "id": "official:ecb:ecb-and-eurosystem-templates-on-international-reserves-and-foreign-currency-liquidity-dataset-ras:2026-11-16",
+      "kind": "economic",
+      "title": "ECB: ECB and Eurosystem templates on international reserves and foreign currency liquidity (Dataset: RAS)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-16T12:00:00+01:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.empire_manufacturing.2026-11-16",
@@ -981,6 +1053,18 @@
       "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
     },
     {
+      "id": "official:us.fed_speech.2ed5dafdc6aa.2026-11-16",
+      "kind": "economic",
+      "title": "Speech - Chairman Kevin Warsh Opening Remarks At the Federal Reserve’s Productivity and Jobs Task Force Conference, Federal Reserve Bank of San Francisco, San Francisco, Calif.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-16T17:00:00+00:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
       "id": "official:fgv:ipc-s-capitais-2a-quadrissemana:2026-11-17",
       "kind": "economic",
       "title": "IPC-S Capitais – 2ª quadrissemana - Nov/2026",
@@ -1003,6 +1087,30 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-cipollone-in-pre-recorded-esmlunchtalk-on-tokenization-and-digital-euro:2026-11-17",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Participation by Mr Cipollone in pre-recorded #ESMLunchTalk on tokenization and digital euro",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-17T10:00:00+01:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:financial-stability-review-pre-release-big-tech-s-growing-presence-in-the-euro-denominated-bond-market-implica:2026-11-17",
+      "kind": "economic",
+      "title": "ECB: Financial Stability Review pre-release: Big tech’s growing presence in the euro-denominated bond market: implications for investors",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-17T10:00:00+01:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.business_inventories.2026-11-17",
@@ -1029,6 +1137,18 @@
       "source_url": "https://www.bls.gov/schedule/news_release/bls.ics"
     },
     {
+      "id": "official:us.fed_speech.666ddc44fa34.2026-11-17",
+      "kind": "economic",
+      "title": "Speech - Governor Christopher J. Waller Payments At The Clearing House (TCH) Annual Conference, New York, N.Y.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-17T14:10:00+00:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
       "id": "official:us.industrial_production.2026-11-17",
       "kind": "economic",
       "title": "G.17 - Industrial Production and Capacity Utilization",
@@ -1039,6 +1159,42 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:ecb:consolidated-financial-statement-of-the-eurosystem:2026-11-17",
+      "kind": "economic",
+      "title": "ECB: Consolidated Financial Statement of the Eurosystem",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-17T15:00:00+01:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:weekly-app-and-pepp-update:2026-11-17",
+      "kind": "economic",
+      "title": "ECB: Weekly APP and PEPP update",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-17T15:00:00+01:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:lecture-by-mr-lane-at-michael-chae-seminar-on-macroeconomic-policy-organised-by-university-of-harvard-in-cambr:2026-11-17",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Lecture by Mr Lane at Michael Chae Seminar on Macroeconomic Policy organised by University of Harvard in Cambridge, United States",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-17T19:30:00+01:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.chicago_nfci.2026-11-18",
@@ -1063,6 +1219,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    },
+    {
+      "id": "official:ecb:publication-of-the-ecb-financial-stability-review-november-2026:2026-11-18",
+      "kind": "economic",
+      "title": "ECB: Publication of the ECB Financial Stability Review - November 2026",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-18T10:00:00+01:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:fgv:monitor-do-pib:2026-11-18",
@@ -1101,6 +1269,18 @@
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
     },
     {
+      "id": "official:ecb:euro-area-seasonally-adjusted-hicp-dataset-hicp:2026-11-18",
+      "kind": "economic",
+      "title": "ECB: Euro area seasonally adjusted HICP (Dataset: HICP)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-18T12:00:00+01:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:bcb:indeco:agendaics197indicadoreseconomicosselecionados-indeco",
       "kind": "economic",
       "title": "Indicadores econômicos Selecionados (Indeco)",
@@ -1125,6 +1305,18 @@
       "source_url": "https://www.nar.realtor/press-releases/nar-statistical-news-release-schedule"
     },
     {
+      "id": "official:ecb:live-conversation-between-ms-lagarde-and-andrew-ross-sorkin-at-dealbook-summit-in-new-york-usa:2026-11-18",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: Live conversation between Ms Lagarde and Andrew Ross Sorkin at DealBook Summit in New York, USA",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-18T15:25:00+01:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.eia_petroleum.2026-11-18",
       "kind": "economic",
       "title": "EIA Weekly Petroleum Status Report (Crude Oil Inventories)",
@@ -1135,6 +1327,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
+    },
+    {
+      "id": "official:us.fed_speech.f02834df2961.2026-11-18",
+      "kind": "economic",
+      "title": "Speech - Governor Michael S. Barr Community Development Investments At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, N.Y.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-18T18:35:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
       "id": "official:us.fomc_minutes.2026-11-18",
@@ -1159,6 +1363,42 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:ecb:euro-area-monthly-balance-of-payments-dataset-bps:2026-11-19",
+      "kind": "economic",
+      "title": "ECB: Euro area monthly balance of payments (Dataset: BPS)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-19T10:00:00+01:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:introductory-statement-by-ms-buch-at-ecb-banking-supervision-press-conference-on-the-aggregate-results-of-the-:2026-11-19",
+      "kind": "economic",
+      "title": "ECB Claudia Buch: Introductory statement by Ms Buch at ECB Banking Supervision press conference on the aggregate results of the 2026 Supervisory Review and Evaluation Process (SREP) in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-19T11:00:00+01:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-elderson-at-ecb-banking-supervision-press-conference-on-the-aggregate-results-of-the-2026-:2026-11-19",
+      "kind": "economic",
+      "title": "ECB Frank Elderson: Participation by Mr Elderson at ECB Banking Supervision press conference on the aggregate results of the 2026 Supervisory Review and Evaluation Process (SREP) in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-19T11:00:00+01:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.weekly_economic_index.2026-11-19",
@@ -1197,6 +1437,18 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
+      "id": "official:ecb:online-conversation-by-ms-lagarde-at-conference-on-financial-literacy-in-brussels-belgium:2026-11-19",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: Online conversation by Ms Lagarde at Conference on Financial Literacy in Brussels, Belgium",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-19T14:30:00+01:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:sarb:rate-decision:2026-11-19",
       "kind": "economic",
       "title": "South African Reserve Bank monetary policy decision",
@@ -1209,6 +1461,66 @@
       "source_url": "https://www.resbank.co.za/en/home/what-we-do/monetary-policy/MPC-announcement-webcasts"
     },
     {
+      "id": "official:us.fed_speech.b202cece3274.2026-11-19",
+      "kind": "economic",
+      "title": "Discussion - Governor Michael S. Barr Artificial Intelligence At the FinRegLab 2026 AI Symposium, Washington, D.C.",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-19T19:15:00+00:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-cipollone-in-panel-a-multi-rail-future-what-should-come-first-at-singapore-fintech-festiva:2026-11-20",
+      "kind": "economic",
+      "title": "ECB Piero Cipollone: Participation by Mr Cipollone in panel \"A Multi-Rail Future: What Should Come First?\" at Singapore Fintech Festival 2026 in Singapore",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-20T04:10:00+01:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:keynote-speech-by-ms-lagarde-at-european-banking-congress-2026-in-frankfurt-germany:2026-11-20",
+      "kind": "economic",
+      "title": "ECB Christine Lagarde: Keynote speech by Ms Lagarde at European Banking Congress 2026 in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-20T09:30:00+01:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:euro-area-indicator-of-negotiated-wage-rates-dataset-inw:2026-11-20",
+      "kind": "economic",
+      "title": "ECB: Euro Area Indicator of Negotiated Wage Rates (Dataset: INW)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-20T11:00:00+01:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:speech-by-mr-montagner-at-deutsche-bundesbank-14th-regulatory-symposium-megatrend-demographics-opportunities-a:2026-11-20",
+      "kind": "economic",
+      "title": "ECB Patrick Montagner: Speech by Mr Montagner at Deutsche Bundesbank 14th Regulatory Symposium \"Megatrend Demographics – Opportunities and Challenges of an Aging and Shrinking Society\" in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-20T11:40:00+01:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.nyfed_staff_nowcast.2026-11-20",
       "kind": "economic",
       "title": "New York Fed Staff Nowcast",
@@ -1219,6 +1531,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
+    },
+    {
+      "id": "official:us.fed_speech.d630fb2b4208.2026-11-20",
+      "kind": "economic",
+      "title": "Speech - Governor Christopher J. Waller Welcoming Remarks At the College Fed Challenge Finals",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-20T13:25:00+00:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
       "id": "official:us.umich_final.2026-11-20",
@@ -1279,6 +1603,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/ReleaseSchedule/index.htm"
+    },
+    {
+      "id": "official:us.fed_speech.09bd0fbc577c.2026-11-20",
+      "kind": "economic",
+      "title": "Speech - Governor Lisa D. Cook The U.S. Economy in Global Context At the Annual Conference of the Central Bank of Chile, Santiago, Chile",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-20T17:15:00+00:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     }
   ]
 }
