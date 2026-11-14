@@ -69,18 +69,6 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
-      "id": "official:us.wholesale_trade.2026-11-09",
-      "kind": "economic",
-      "title": "Monthly Wholesale Trade: Sales and Inventories",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-11-09T10:00:00-05:00",
-      "date": "2026-11-09",
-      "time_status": "exact",
-      "importance": "medium",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
-    },
-    {
       "id": "official:eurostat:services-production:2026-11-09",
       "kind": "economic",
       "title": "Services production",
@@ -127,6 +115,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:us.wholesale_trade.2026-11-09",
+      "kind": "economic",
+      "title": "Monthly Wholesale Trade: Sales and Inventories",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-09T15:00:00+00:00",
+      "date": "2026-11-09",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
     },
     {
       "id": "official:us.nyfed_consumer_expectations.2026-11-09",
@@ -849,6 +849,18 @@
       "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
+      "id": "official:boe:megan-greene-cer-ditchley:2026-11-14",
+      "kind": "economic",
+      "title": "Megan Greene: Opening remarks at CER Ditchley economics conference, Oxfordshire",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-14T11:00:00+00:00",
+      "date": "2026-11-14",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:fgv:igp-10-e-os-componentes-ipa-10-ipc-10-e-incc-10:2026-11-16",
       "kind": "economic",
       "title": "IGP-10 e os componentes: IPA-10, IPC-10 e INCC-10 - Nov/2026",
@@ -914,7 +926,7 @@
       "title": "ECB Boris Vujčić: Virtual opening speech by Mr Vujčić at 29th Euro Finance Week in Frankfurt, Germany",
       "country": "Eurozona",
       "currency": "EUR",
-      "starts_at": "2026-11-16T09:15:00+01:00",
+      "starts_at": "2026-11-16T09:30:00+01:00",
       "date": "2026-11-16",
       "time_status": "exact",
       "importance": "medium",
@@ -1065,6 +1077,30 @@
       "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
+      "id": "official:ons:earningsandemploymentfrompayasyouearnrealtimeinformationuknovember2026:2026-11-17",
+      "kind": "economic",
+      "title": "Earnings and employment from Pay As You Earn Real Time Information, UK: November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-17T07:00:00+00:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/earningsandemploymentfrompayasyouearnrealtimeinformationuknovember2026"
+    },
+    {
+      "id": "official:ons:uklabourmarketnovember2026:2026-11-17",
+      "kind": "economic",
+      "title": "UK Labour Market: November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-17T07:00:00+00:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ons.gov.uk/releases/uklabourmarketnovember2026"
+    },
+    {
       "id": "official:fgv:ipc-s-capitais-2a-quadrissemana:2026-11-17",
       "kind": "economic",
       "title": "IPC-S Capitais – 2ª quadrissemana - Nov/2026",
@@ -1077,16 +1113,16 @@
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
     },
     {
-      "id": "official:us.retail_sales.2026-11-17",
+      "id": "official:ons:productivityflashestimateandoverviewukjulytoseptember2026andapriltojune2026:2026-11-17",
       "kind": "economic",
-      "title": "Advance Monthly Sales for Retail and Food Services",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-11-17T08:30:00-05:00",
+      "title": "Productivity flash estimate and overview, UK: July to September 2026 and April to June 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-17T09:30:00+00:00",
       "date": "2026-11-17",
       "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/productivityflashestimateandoverviewukjulytoseptember2026andapriltojune2026"
     },
     {
       "id": "official:ecb:participation-by-mr-cipollone-in-pre-recorded-esmlunchtalk-on-tokenization-and-digital-euro:2026-11-17",
@@ -1113,15 +1149,15 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
-      "id": "official:us.business_inventories.2026-11-17",
+      "id": "official:us.retail_sales.2026-11-17",
       "kind": "economic",
-      "title": "Manufacturing and Trade: Inventories and Sales",
+      "title": "Advance Monthly Sales for Retail and Food Services",
       "country": "EUA",
       "currency": "USD",
-      "starts_at": "2026-11-17T10:00:00-05:00",
+      "starts_at": "2026-11-17T13:30:00+00:00",
       "date": "2026-11-17",
       "time_status": "exact",
-      "importance": "medium",
+      "importance": "high",
       "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
     },
     {
@@ -1161,6 +1197,18 @@
       "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
+      "id": "official:us.business_inventories.2026-11-17",
+      "kind": "economic",
+      "title": "Manufacturing and Trade: Inventories and Sales",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-17T15:00:00+00:00",
+      "date": "2026-11-17",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    },
+    {
       "id": "official:ecb:consolidated-financial-statement-of-the-eurosystem:2026-11-17",
       "kind": "economic",
       "title": "ECB: Consolidated Financial Statement of the Eurosystem",
@@ -1197,6 +1245,66 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:boe:sasha-mills-singapore-payment-systems:2026-11-18",
+      "kind": "economic",
+      "title": "Sasha Mills: Singapore Fintech Festival panel on central banks and future payment systems",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T04:45:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:ons:consumerpriceinflationukoctober2026:2026-11-18",
+      "kind": "economic",
+      "title": "Consumer price inflation, UK: October 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T07:00:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ons.gov.uk/releases/consumerpriceinflationukoctober2026"
+    },
+    {
+      "id": "official:ons:producerpriceinflationukoctober2026:2026-11-18",
+      "kind": "economic",
+      "title": "Producer price inflation, UK: October 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T07:00:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/producerpriceinflationukoctober2026"
+    },
+    {
+      "id": "official:boe:andrew-bailey-ifac:2026-11-18",
+      "kind": "economic",
+      "title": "Andrew Bailey: Pre-recorded fireside chat at IFAC World Congress of Accountants",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T07:30:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:boe:tom-mutton-singapore-connectivity:2026-11-18",
+      "kind": "economic",
+      "title": "Tom Mutton: Singapore Fintech Festival panel on cross-border wholesale connectivity",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T08:30:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:us.chicago_nfci.2026-11-18",
       "kind": "economic",
       "title": "Chicago Fed National Financial Conditions Index (NFCI) — November 13, 2026",
@@ -1209,16 +1317,16 @@
       "source_url": "https://www.chicagofed.org/research/data/data-release-calendar"
     },
     {
-      "id": "official:us.housing_starts.2026-11-18",
+      "id": "official:ons:privaterentandhousepricesuknovember2026:2026-11-18",
       "kind": "economic",
-      "title": "New Residential Construction (Building Permits, Housing Starts, and Housing Completions)",
-      "country": "EUA",
-      "currency": "USD",
-      "starts_at": "2026-11-18T08:30:00-05:00",
+      "title": "Private rent and house prices, UK: November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T09:30:00+00:00",
       "date": "2026-11-18",
       "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/privaterentandhousepricesuknovember2026"
     },
     {
       "id": "official:ecb:publication-of-the-ecb-financial-stability-review-november-2026:2026-11-18",
@@ -1281,6 +1389,30 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:us.housing_starts.2026-11-18",
+      "kind": "economic",
+      "title": "New Residential Construction (Building Permits, Housing Starts, and Housing Completions)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-18T13:30:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    },
+    {
+      "id": "official:boe:katharine-braddick-uk-finance-text:2026-11-18",
+      "kind": "economic",
+      "title": "Katharine Braddick: Publication of UK Finance Annual Dinner speech text",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T14:00:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:bcb:indeco:agendaics197indicadoreseconomicosselecionados-indeco",
       "kind": "economic",
       "title": "Indicadores econômicos Selecionados (Indeco)",
@@ -1291,6 +1423,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Indeco"
+    },
+    {
+      "id": "official:boe:andrew-bailey-economic-development:2026-11-18",
+      "kind": "economic",
+      "title": "Andrew Bailey: Speech at Annual Institute of Economic Development Conference, London",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T15:00:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
       "id": "official:us.pending_home_sales.2026-11-18",
@@ -1353,6 +1497,18 @@
       "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
+      "id": "official:boe:katharine-braddick-uk-finance-speech:2026-11-18",
+      "kind": "economic",
+      "title": "Katharine Braddick: Speech at UK Finance Annual Dinner, London",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-18T19:00:00+00:00",
+      "date": "2026-11-18",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:fgv:sondagem-economica-do-3o-trimestre-de-2026-sondagem-da-america-latina:2026-11-19",
       "kind": "economic",
       "title": "Sondagem Econômica do 3º trimestre de 2026 (Sondagem da América Latina)",
@@ -1363,6 +1519,30 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:ons:businessinsightsandimpactontheukeconomy19november2026:2026-11-19",
+      "kind": "economic",
+      "title": "Business insights and impact on the UK economy: 19 November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-19T09:30:00+00:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/businessinsightsandimpactontheukeconomy19november2026"
+    },
+    {
+      "id": "official:ons:economicactivityandsocialchangeintheukrealtimeindicators19november2026:2026-11-19",
+      "kind": "economic",
+      "title": "Economic activity and social change in the UK, real-time indicators: 19 November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-19T09:30:00+00:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators19november2026"
     },
     {
       "id": "official:ecb:euro-area-monthly-balance-of-payments-dataset-bps:2026-11-19",
@@ -1437,6 +1617,18 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
+      "id": "official:us.fed_speech.b8eeb2f24d95.2026-11-19",
+      "kind": "economic",
+      "title": "Discussion - Vice Chair Philip N. Jefferson Economic Shocks At the International Monetary Fund (IMF) and Central Bank of Brazil conference \"A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead\" (virtual)",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-19T14:25:00+00:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
       "id": "official:ecb:online-conversation-by-ms-lagarde-at-conference-on-financial-literacy-in-brussels-belgium:2026-11-19",
       "kind": "economic",
       "title": "ECB Christine Lagarde: Online conversation by Ms Lagarde at Conference on Financial Literacy in Brussels, Belgium",
@@ -1461,6 +1653,18 @@
       "source_url": "https://www.resbank.co.za/en/home/what-we-do/monetary-policy/MPC-announcement-webcasts"
     },
     {
+      "id": "official:us.eia_natural_gas.2026-11-19",
+      "kind": "economic",
+      "title": "EIA Weekly Natural Gas Storage",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-19T15:30:00+00:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ir.eia.gov/ngs/ngs.html"
+    },
+    {
       "id": "official:us.fed_speech.b202cece3274.2026-11-19",
       "kind": "economic",
       "title": "Discussion - Governor Michael S. Barr Artificial Intelligence At the FinRegLab 2026 AI Symposium, Washington, D.C.",
@@ -1483,6 +1687,30 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ons:publicsectorfinancesukoctober2026:2026-11-20",
+      "kind": "economic",
+      "title": "Public sector finances, UK: October 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-20T07:00:00+00:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/publicsectorfinancesukoctober2026"
+    },
+    {
+      "id": "official:ons:retailsalesgreatbritainoctober2026:2026-11-20",
+      "kind": "economic",
+      "title": "Retail sales, Great Britain: October 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-20T07:00:00+00:00",
+      "date": "2026-11-20",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releases/retailsalesgreatbritainoctober2026"
     },
     {
       "id": "official:ecb:keynote-speech-by-ms-lagarde-at-european-banking-congress-2026-in-frankfurt-germany:2026-11-20",
