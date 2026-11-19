@@ -630,7 +630,7 @@
       "date": "2026-11-18",
       "time_status": "exact",
       "importance": "medium",
-      "source_url": "https://www.nar.realtor/press-releases/nar-statistical-news-release-schedule"
+      "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
       "id": "official:ecb:live-conversation-between-ms-lagarde-and-andrew-ross-sorkin-at-dealbook-summit-in-new-york-usa:2026-11-18",
@@ -638,7 +638,7 @@
       "title": "ECB Christine Lagarde: Live conversation between Ms Lagarde and Andrew Ross Sorkin at DealBook Summit in New York, USA",
       "country": "Zona do Euro",
       "currency": "EUR",
-      "starts_at": "2026-11-18T15:25:00+01:00",
+      "starts_at": "2026-11-18T15:15:00+01:00",
       "date": "2026-11-18",
       "time_status": "exact",
       "importance": "medium",
@@ -813,6 +813,18 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
+      "id": "official:boe:clare-lombardelli-imf-bcb:2026-11-19",
+      "kind": "economic",
+      "title": "Clare Lombardelli: Panel at the Joint IMF–Central Bank of Brazil Conference",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-19T14:25:00+00:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:us.fed_speech.b8eeb2f24d95.2026-11-19",
       "kind": "economic",
       "title": "Discussion - Vice Chair Philip N. Jefferson Economic Shocks At the International Monetary Fund (IMF) and Central Bank of Brazil conference \"A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead\" (virtual)",
@@ -859,6 +871,18 @@
       "time_status": "exact",
       "importance": "medium",
       "source_url": "https://ir.eia.gov/ngs/ngs.html"
+    },
+    {
+      "id": "official:ecb:sharon-donnery-jpm-financials:2026-11-19",
+      "kind": "economic",
+      "title": "ECB Sharon Donnery: Participation in fireside chat at JP Morgan Financials Conference in London, United Kingdom",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-19T15:45:00+01:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.fed_speech.b202cece3274.2026-11-19",
@@ -1053,6 +1077,78 @@
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
     },
     {
+      "id": "official:bcb:focus:agendaics446relatoriofocus",
+      "kind": "economic",
+      "title": "Relatório Focus",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-23T08:30:00-03:00",
+      "date": "2026-11-23",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Focus"
+    },
+    {
+      "id": "official:spglobal:flash-eurozone-pmi:2026-11-23",
+      "kind": "economic",
+      "title": "Flash Eurozone PMI",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-23T09:00:00+00:00",
+      "date": "2026-11-23",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
+    },
+    {
+      "id": "official:spglobal:flash-uk-pmi:2026-11-23",
+      "kind": "economic",
+      "title": "Flash UK PMI",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-23T09:30:00+00:00",
+      "date": "2026-11-23",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
+    },
+    {
+      "id": "official:spglobal:uk-consumer-sentiment-index:2026-11-23",
+      "kind": "economic",
+      "title": "UK Consumer Sentiment Index",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-23T09:30:00+00:00",
+      "date": "2026-11-23",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
+    },
+    {
+      "id": "official:boe:huw-pill-oenb:2026-11-23",
+      "kind": "economic",
+      "title": "Huw Pill: Panel at the Oesterreichische Nationalbank Conference on European Economic Integration",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-23T13:00:00+00:00",
+      "date": "2026-11-23",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:spglobal:flash-us-pmi:2026-11-23",
+      "kind": "economic",
+      "title": "Flash US PMI",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-23T14:45:00+00:00",
+      "date": "2026-11-23",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
+    },
+    {
       "id": "official:fgv:ipc-s-capitais-3a-quadrissemana:2026-11-24",
       "kind": "economic",
       "title": "IPC-S Capitais – 3ª quadrissemana - Nov/2026",
@@ -1075,6 +1171,42 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:ons:household-satellite-account-uk-2024-and-provisional-2025-estimates:2026-11-24",
+      "kind": "economic",
+      "title": "Household satellite account, UK: 2024 (and provisional 2025) estimates",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-24T09:30:00+00:00",
+      "date": "2026-11-24",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:ons:regional-and-subregional-labour-productivity-uk-2024:2026-11-24",
+      "kind": "economic",
+      "title": "Regional and subregional labour productivity, UK: 2024",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-24T09:30:00+00:00",
+      "date": "2026-11-24",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:ons:uk-trade-in-services-by-industry-country-and-service-type-2016-to-2024:2026-11-24",
+      "kind": "economic",
+      "title": "UK trade in services by industry, country and service type, 2016 to 2024",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-24T09:30:00+00:00",
+      "date": "2026-11-24",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
     },
     {
       "id": "official:fgv:indicador-de-expectativa-de-inflacao-dos-consumidores:2026-11-24",
@@ -1221,6 +1353,78 @@
       "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-11-16&ate=2026-11-29"
     },
     {
+      "id": "official:boe:capital-issuance:2026-11-26",
+      "kind": "economic",
+      "title": "Capital Issuance - October 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-26T09:30:00+00:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:ons:economic-activity-and-social-change-in-the-uk-real-time-indicators-26-november-2026:2026-11-26",
+      "kind": "economic",
+      "title": "Economic activity and social change in the UK, real-time indicators: 26 November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-26T09:30:00+00:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:ons:uk-input-output-analytical-tables-2024:2026-11-26",
+      "kind": "economic",
+      "title": "UK Input-output analytical tables: 2024",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-26T09:30:00+00:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:ons:young-people-not-in-education-employment-or-training-neet-uk-november-2026:2026-11-26",
+      "kind": "economic",
+      "title": "Young people not in education, employment or training (NEET), UK: November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-26T09:30:00+00:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:boe:financial-policy-committee-record:2026-11-26",
+      "kind": "economic",
+      "title": "Financial Policy Committee Record – November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-26T10:30:00+00:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:boe:financial-stability-report:2026-11-26",
+      "kind": "economic",
+      "title": "Financial Stability Report - November 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-26T10:30:00+00:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:fgv:igp-m-e-os-componentes-ipa-m-e-ipc-m:2026-11-27",
       "kind": "economic",
       "title": "IGP-M e os componentes: IPA-M e IPC-M - Nov/2026",
@@ -1267,6 +1471,54 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://servicodados.ibge.gov.br/api/v3/calendario/?qtd=500&de=2026-11-16&ate=2026-11-29"
+    },
+    {
+      "id": "official:ons:business-enterprise-research-and-development-uk-2025:2026-11-27",
+      "kind": "economic",
+      "title": "Business enterprise research and development, UK: 2025",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-27T09:30:00+00:00",
+      "date": "2026-11-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:ons:household-costs-indices-for-uk-household-groups-july-to-september-2026:2026-11-27",
+      "kind": "economic",
+      "title": "Household Costs Indices for UK household groups: July to September 2026",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-27T09:30:00+00:00",
+      "date": "2026-11-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:ons:uk-inclusive-income-and-wealth-accounts-2005-to-2025:2026-11-27",
+      "kind": "economic",
+      "title": "UK Inclusive Income and Wealth Accounts: 2005 to 2025",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-27T09:30:00+00:00",
+      "date": "2026-11-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
+    },
+    {
+      "id": "official:boe:financial-stability-report-agency-briefing:2026-11-27",
+      "kind": "economic",
+      "title": "Nathanaël Benjamin and Bonnie Howard: Financial Stability Report National Agency briefing",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-27T11:00:00+00:00",
+      "date": "2026-11-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
       "id": "official:us.jobless_claims.2026-11-27",
