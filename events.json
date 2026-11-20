@@ -1149,6 +1149,18 @@
       "source_url": "https://www.pmi.spglobal.com/Public/Home/PDF/UK_Rel_Dates"
     },
     {
+      "id": "official:ecb:presentation-by-mr-lane-at-department-of-finance-climate-economy-group-meeting-organised-by-department-of-fina:2026-11-23",
+      "kind": "economic",
+      "title": "ECB Philip R. Lane: Presentation by Mr Lane at Department of Finance Climate Economy Group meeting organised by Department of Finance in Dublin, Ireland",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-23T15:30:00+01:00",
+      "date": "2026-11-23",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:fgv:ipc-s-capitais-3a-quadrissemana:2026-11-24",
       "kind": "economic",
       "title": "IPC-S Capitais – 3ª quadrissemana - Nov/2026",
@@ -1221,6 +1233,18 @@
       "source_url": "https://portalibre.fgv.br/sites/default/files/users/user2873/calendario-2026-2027_portal-da-inflacao_vf.pdf"
     },
     {
+      "id": "official:ecb:special-address-and-participation-in-central-bankers-chat-resist-the-shocks-how-to-boost-europes-resilience-by:2026-11-24",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Special address and participation in Central Bankers’ chat \"Resist the shocks – how to boost Europe’s resilience\" by Mr Vujčić at Conference on European Economic Integration (CEEI) \"CESEE in a Changing World: geoeconomics, technology and demographic shifts\" jointly organised by Oesterreichische Nationalbank and Narodowy Bank Polski in Vienna, Austria",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-24T12:00:00+01:00",
+      "date": "2026-11-24",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:us.consumer_confidence.2026-11-24",
       "kind": "economic",
       "title": "Consumer Confidence",
@@ -1245,6 +1269,30 @@
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
     },
     {
+      "id": "official:ecb:consolidated-financial-statement-of-the-eurosystem:2026-11-24",
+      "kind": "economic",
+      "title": "ECB: Consolidated Financial Statement of the Eurosystem",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-24T15:00:00+01:00",
+      "date": "2026-11-24",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:weekly-app-and-pepp-update:2026-11-24",
+      "kind": "economic",
+      "title": "ECB: Weekly APP and PEPP update",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-24T15:00:00+01:00",
+      "date": "2026-11-24",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:fgv:incc-m:2026-11-25",
       "kind": "economic",
       "title": "INCC-M - Nov/2026",
@@ -1267,6 +1315,30 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:ecb:distributional-wealth-accounts-dwa-dataset-dwa:2026-11-25",
+      "kind": "economic",
+      "title": "ECB: Distributional Wealth Accounts (DWA) (Dataset: DWA)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-25T11:00:00+01:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
+      "id": "official:ecb:study-on-the-payment-attitudes-of-consumers-in-the-euro-area-space:2026-11-25",
+      "kind": "economic",
+      "title": "ECB: Study on the payment attitudes of consumers in the euro area (SPACE)",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-25T11:00:00+01:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
       "id": "official:us.gdp.e9f762a9f01060d7",
@@ -1303,6 +1375,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.eia.gov/petroleum/supply/weekly/includes/wpsr-calendar.json"
+    },
+    {
+      "id": "official:us.eia_natural_gas.2026-11-25",
+      "kind": "economic",
+      "title": "EIA Weekly Natural Gas Storage",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-25T17:00:00+00:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://ir.eia.gov/ngs/ngs.html"
     },
     {
       "id": "official:us.beige_book.2026-11-25",
@@ -1425,6 +1509,18 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
+      "id": "official:ecb:monetary-policy-accounts:2026-11-26",
+      "kind": "economic",
+      "title": "ECB: Publication of the account of monetary policy meeting of the Governing Council held on 28-29 October 2026",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-26T13:30:00+01:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:fgv:igp-m-e-os-componentes-ipa-m-e-ipc-m:2026-11-27",
       "kind": "economic",
       "title": "IGP-M e os componentes: IPA-M e IPC-M - Nov/2026",
@@ -1509,6 +1605,18 @@
       "source_url": "https://www.ons.gov.uk/releasecalendar?limit=50&release-type=type-upcoming"
     },
     {
+      "id": "official:ecb:ecb-consumer-expectations-survey-results-ces-october-2026:2026-11-27",
+      "kind": "economic",
+      "title": "ECB: ECB Consumer Expectations Survey results (CES) - October 2026",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-27T10:00:00+01:00",
+      "date": "2026-11-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
+    },
+    {
       "id": "official:boe:financial-stability-report-agency-briefing:2026-11-27",
       "kind": "economic",
       "title": "Nathanaël Benjamin and Bonnie Howard: Financial Stability Report National Agency briefing",
@@ -1531,6 +1639,18 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
+    },
+    {
+      "id": "official:ecb:participation-by-mr-vujcic-in-town-hall-at-euro20-event-organised-by-deutsche-bundesbank-in-frankfurt-germany:2026-11-27",
+      "kind": "economic",
+      "title": "ECB Boris Vujčić: Participation by Mr Vujčić in Town Hall at Euro20+ event organised by Deutsche Bundesbank in Frankfurt, Germany",
+      "country": "Eurozona",
+      "currency": "EUR",
+      "starts_at": "2026-11-27T15:15:00+01:00",
+      "date": "2026-11-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     }
   ]
 }
