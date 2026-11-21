@@ -81,6 +81,18 @@
       "source_url": "https://www.chicagofed.org/research/data/data-release-calendar"
     },
     {
+      "id": "official:bcb:ibc:agendaics88indicedeatividadeeconomicadobancocentral-ibc-br",
+      "kind": "economic",
+      "title": "Índice de Atividade Econômica do Banco Central (IBC-Br)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-16T09:00:00-03:00",
+      "date": "2026-11-16",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=%C3%8Dndice%20de%20atividade%20econ%C3%B4mica%20(IBC-Br)"
+    },
+    {
       "id": "official:ecb:virtual-opening-speech-by-mr-vuj-i-at-29th-euro-finance-week-in-frankfurt-germany:2026-11-16",
       "kind": "economic",
       "title": "ECB Boris Vujčić: Virtual opening speech by Mr Vujčić at 29th Euro Finance Week in Frankfurt, Germany",
@@ -849,6 +861,18 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:bcb:surveyptc:agendaics22pesquisatrimestraldecondicoesdecredito-ptc",
+      "kind": "economic",
+      "title": "Pesquisa Trimestral de Condições de Crédito – PTC",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-19T14:30:00-03:00",
+      "date": "2026-11-19",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Sondagens%20-%20PTC%20PEF"
+    },
+    {
       "id": "official:sarb:rate-decision:2026-11-19",
       "kind": "economic",
       "title": "South African Reserve Bank monetary policy decision",
@@ -1245,6 +1269,18 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:boe:megan-greene-signum:2026-11-24",
+      "kind": "economic",
+      "title": "Megan Greene: SIGNUM Roundtable on UK monetary policy",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-24T12:30:00+00:00",
+      "date": "2026-11-24",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
       "id": "official:us.consumer_confidence.2026-11-24",
       "kind": "economic",
       "title": "Consumer Confidence",
@@ -1341,6 +1377,18 @@
       "source_url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html"
     },
     {
+      "id": "official:us.durable_goods.2026-11-25",
+      "kind": "economic",
+      "title": "Advance Report on Durable Goods--Manufacturers' Shipments, Inventories, and Orders",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-25T13:30:00+00:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
+    },
+    {
       "id": "official:us.gdp.e9f762a9f01060d7",
       "kind": "economic",
       "title": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
@@ -1353,6 +1401,18 @@
       "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
     },
     {
+      "id": "official:us.jobless_claims.2026-11-27",
+      "kind": "economic",
+      "title": "Initial Claims",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-25T13:30:00+00:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://oui.doleta.gov/unemploy/claims_arch.asp"
+    },
+    {
       "id": "official:us.personal_income_pce.683159222b13d939",
       "kind": "economic",
       "title": "Personal Income and Outlays, October 2026",
@@ -1363,6 +1423,66 @@
       "time_status": "exact",
       "importance": "high",
       "source_url": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
+    },
+    {
+      "id": "official:boe:treasury-select-committee-mpr:2026-11-25",
+      "kind": "economic",
+      "title": "BoE Treasury Select Committee hearing on the November Monetary Policy Report",
+      "country": "Reino Unido",
+      "currency": "GBP",
+      "starts_at": "2026-11-25T14:15:00+00:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
+    },
+    {
+      "id": "official:bcb:openmarket:agendaics95estatisticasdomercadoaberto",
+      "kind": "economic",
+      "title": "Estatísticas do Mercado Aberto",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-25T14:30:00-03:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20do%20mercado%20aberto"
+    },
+    {
+      "id": "official:bcb:indeco:agendaics198indicadoreseconomicosselecionados-indeco",
+      "kind": "economic",
+      "title": "Indicadores econômicos Selecionados (Indeco)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-25T14:30:00-03:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Indeco"
+    },
+    {
+      "id": "official:bcb:ibcr:agendaics23indicedeatividadeeconomicaregional-ibcr",
+      "kind": "economic",
+      "title": "Índice de Atividade Econômica Regional (IBCR)",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-25T14:30:00-03:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "low",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=%C3%8Dndice%20de%20Atividade%20Econ%C3%B4mica%20Regional%20(IBCR)"
+    },
+    {
+      "id": "official:us.new_home_sales.2026-11-25",
+      "kind": "economic",
+      "title": "New Residential Sales",
+      "country": "EUA",
+      "currency": "USD",
+      "starts_at": "2026-11-25T15:00:00+00:00",
+      "date": "2026-11-25",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
     },
     {
       "id": "official:us.eia_petroleum.2026-11-25",
@@ -1411,6 +1531,18 @@
       "time_status": "exact",
       "importance": "low",
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
+    },
+    {
+      "id": "official:bcb:external:agendaics93estatisticasdosetorexterno",
+      "kind": "economic",
+      "title": "Estatísticas do setor externo",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-26T08:30:00-03:00",
+      "date": "2026-11-26",
+      "time_status": "exact",
+      "importance": "high",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20do%20setor%20externo"
     },
     {
       "id": "official:ibge:4330",
@@ -1557,6 +1689,18 @@
       "source_url": "https://portalibre.fgv.br/calendario-de-divulgacao"
     },
     {
+      "id": "official:bcb:credit:agendaics93estatisticasmonetariasedecredito",
+      "kind": "economic",
+      "title": "Estatísticas monetárias e de crédito",
+      "country": "Brasil",
+      "currency": "BRL",
+      "starts_at": "2026-11-27T08:30:00-03:00",
+      "date": "2026-11-27",
+      "time_status": "exact",
+      "importance": "medium",
+      "source_url": "https://www.bcb.gov.br/api/exportarics/sitebcb/agendaics?lista=Estat%C3%ADsticas%20monet%C3%A1rias%20e%20de%20cr%C3%A9dito"
+    },
+    {
       "id": "official:ibge:4331",
       "kind": "economic",
       "title": "Pesquisa Nacional por Amostra de Domicílios Contínua Mensal",
@@ -1629,16 +1773,16 @@
       "source_url": "https://www.bankofengland.co.uk/events/upcoming-events"
     },
     {
-      "id": "official:us.jobless_claims.2026-11-27",
+      "id": "official:us.advance_economic_indicators.2026-11-27",
       "kind": "economic",
-      "title": "Initial Claims",
+      "title": "Advance Economic Indicators Report (International Trade, Retail, & Wholesale)",
       "country": "EUA",
       "currency": "USD",
       "starts_at": "2026-11-27T13:30:00+00:00",
       "date": "2026-11-27",
       "time_status": "exact",
-      "importance": "high",
-      "source_url": "https://www.newyorkfed.org/research/calendars/i-nov26.html"
+      "importance": "medium",
+      "source_url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html"
     },
     {
       "id": "official:ecb:participation-by-mr-vujcic-in-town-hall-at-euro20-event-organised-by-deutsche-bundesbank-in-frankfurt-germany:2026-11-27",
